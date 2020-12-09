@@ -1,0 +1,2011 @@
+Company,Sales,Profits,Assets,Market Value
+ICBC,134.8,37.8,2813.5,237.3
+China Construction Bank,113.1,30.6,2241,202
+JPMorgan Chase,108.2,21.3,2359.1,191.4
+General Electric,147.4,13.6,685.3,243.7
+Exxon Mobil,420.7,44.9,333.8,400.4
+HSBC Holdings,104.9,14.3,2684.1,201.3
+Royal Dutch Shell,467.2,26.6,360.3,213.1
+Agricultural Bank of China,103,23,2124.2,150.8
+PetroChina,308.9,18.3,347.8,261.2
+Berkshire Hathaway,162.5,14.8,427.5,252.8
+Bank of China,98.1,22.1,2033.8,131.7
+Wells Fargo,91.2,18.9,1423,201.3
+Chevron,222.6,26.2,233,232.5
+Volkswagen Group,254,28.6,408.2,94.4
+Wal-Mart Stores,469.2,17,203.1,242.5
+Apple,164.7,41.7,196.1,416.6
+Gazprom,144,40.6,339.3,111.4
+BP,370.9,11.6,301,130.4
+Citigroup,90.7,7.5,1864.7,143.6
+Petrobras,144.1,11,331.6,120.7
+Samsung Electronics,187.8,21.7,196.3,174.4
+BNP Paribas,126.2,8.6,2504.2,71.3
+Total,240.5,14.1,224.1,114.4
+AT&T,127.4,7.3,272.3,200.1
+Allianz,140.3,6.8,915.8,66.4
+Sinopec-China Petroleum,411.7,10.1,200,106.9
+Mitsubishi UFJ Financial,59,11.9,2653.1,85.7
+Bank of America,100.1,4.2,2210,135.5
+China Mobile,88.8,20.5,168.7,213.8
+ENI,163.7,10,185.2,86.3
+Toyota Motor,224.5,3.4,371.3,167.2
+Vodafone,74.4,11.1,219.9,135.7
+IBM,104.5,16.6,119.2,239.5
+Proctor & Gamble,83.3,12.9,139.9,208.5
+Daimler,150.8,8,211.9,64.1
+Pfizer,59,14.6,185.8,201.4
+Statoil,126.8,12.4,140.2,78.1
+AXA Group,147.5,5.3,1005.4,45.3
+Commonwealth Bank,47.8,7.3,735.2,117.5
+Microsoft,72.9,15.5,128.7,234.8
+Itaú Unibanco Holding,70.5,6.2,453.6,82
+Banco Santander,108.8,2.9,1647.8,82.1
+BHP Billiton,72.2,15.4,129.3,184.7
+Banco Bradesco,78.3,5.6,417.5,72
+Nippon Telegraph & Tel,126.9,5.6,226,58.2
+Johnson & Johnson,67.2,10.9,121.3,221.4
+Westpac Banking Group,43.9,6.2,699.6,98.9
+Goldman Sachs Group,41.7,7.5,938.6,74.5
+Royal Bank of Canada,38.3,7.7,838.5,87.2
+Siemens,100.6,5.7,134.4,91.9
+Sumitomo Mitsui Financial,47.3,6.3,1733.2,57.6
+Ford Motor,134.3,5.7,190.6,51.8
+Bank of Communications,43.5,9.4,846.4,56.7
+BMW Group,98.8,6.6,165.5,60
+Comcast,62.6,6.2,165,106.3
+National Australian Bank,49.2,4.2,791.3,76.3
+Rosneft,68.8,11.2,126.3,73.2
+ING Group,130,5.1,1533.7,31.9
+Sberbank,36.1,10.8,441.1,73.3
+Telefónica,82.3,5.2,161.5,67.1
+American International Group,65.7,3.4,548.6,57.5
+Lukoil,116.3,11,99,55.4
+Prudential,90.2,3.6,489.4,44.7
+ANZ,37.5,5.9,666.9,81.2
+Banco do Brasil,69,6,552.2,37.9
+Google,50.2,10.7,93.8,268.4
+BASF,103.9,6.4,83.5,90.1
+General Motors,152.3,6.2,149.4,38.5
+TD Bank Group,30.6,6.7,819.4,76.9
+Sanofi,46.1,6.6,132.4,131.6
+ConocoPhillips,58.4,8.4,117.1,72.1
+EDF,95.9,4.4,325.2,35.3
+Anheuser-Busch InBev,39.8,7.2,122.6,153.5
+Intel,53.3,11,84.4,105.7
+Mizuho Financial,32.8,5.9,2005,53.7
+Coca-Cola,48,9,86.2,173.1
+Cisco Systems,47.3,9.3,95.4,116.9
+Munich Re,88,4.2,340.6,34.9
+Merck & Co,47.3,6.2,106.1,133.3
+Ping An Insurance Group,51.1,3.2,456.2,57
+Bank of Nova Scotia,27.6,6.4,737.2,70.6
+Nissan Motor,113.7,4.1,133.4,43.4
+Honda Motor,96,2.6,140.9,72.4
+Vale,45.7,4.8,130.4,92.7
+PepsiCo,65.5,6.2,74.6,118.9
+Hyundai Motor,75,7.6,114.3,41.5
+UnitedHealth Group,110.6,5.5,80.9,56.1
+BBVA-Banco Bilbao Vizcaya,52.1,2.2,840.8,54.7
+United Technologies,57.7,5.1,89.4,85.5
+Saudi Basic Industries,50.4,6.6,90.2,74.8
+GDF Suez,128,2,268.9,45
+Boeing,81.7,3.9,88.9,65.4
+Caterpillar,65.9,5.7,89.4,58.2
+Standard Chartered,26.9,4.9,636.5,64.4
+E.ON,174.2,2.9,184.9,32.5
+América Móvil,60.2,7.1,74.6,70.7
+China Merchants Bank,28.4,7.3,547,44.1
+Oracle,37.1,10.6,79.4,172
+Unilever,67.7,5.9,59.9,122.3
+CVS Caremark,123.1,3.9,65.9,66
+Tesco,102.8,4.5,81.1,46.9
+China Life Insurance,63.2,1.8,304.6,79.9
+China Minsheng Banking,27.9,6.1,515.5,43.9
+Walt Disney,42.8,5.6,80.6,104
+American Express,33.8,4.5,153.1,73
+Mitsubishi Corp,67.2,5.5,152.6,32.1
+Cnooc,39.2,10.1,73.2,84.3
+GlaxoSmithKline,43,7.4,63.5,111.1
+Hon Hai Precision,132.1,10.7,65.8,32.1
+Ecopetrol,39,8.4,64.4,116.2
+China Shenhua Energy,39.7,7.7,70.2,70.8
+US Bancorp,22.2,5.6,353.9,63.8
+Hitachi,116.8,4.2,113.2,28.5
+Nordea Bank,23.2,4.2,892.6,47.1
+Schlumberger,42.3,5.5,61.5,105.5
+Bayer,52.5,3.2,65.6,84.9
+Reliance Industries,70.3,3.9,64.2,50.4
+MetLife,68.2,1.3,836.8,44
+Abbott Laboratories,39.9,6,67.2,53.6
+Iberdrola,45.1,3.7,121.7,33.6
+Shanghai Pudong Development,25.4,5.4,504.5,31.6
+Mitsui & Co,63.4,5.2,109.3,27
+China Citic Bank,24.4,4.9,474.7,32.5
+Home Depot,74.8,4.5,41.1,103.3
+Phillips 66,166.1,4.1,48.1,39.9
+Bank of Montreal,20.9,4.1,542.9,41
+Møller-Maersk,60.5,3.8,73.7,35
+Verizon Communications,115.8,0.9,225.2,137.3
+EADS,74.5,1.6,115.5,46
+State Bank of India,35.1,3,359.1,28.1
+Hutchinson Whampoa,31.3,3.4,103.7,45.1
+News Corp,34.3,4,62.7,70.6
+China Telecom,44.9,2.4,87.4,42
+Capital One Financial,23.8,3.5,312.9,32.1
+Repsol YPF,77.7,2.7,81.2,28.8
+Suncor Energy,38.8,2.8,76.8,47.3
+Industrial Bank,18.7,4.1,382.3,38.2
+PTT PCL,89.9,3.4,53.3,32.9
+ENEL,111.9,1.1,226.3,32.2
+Société Générale,107.8,1,1648.9,29.5
+Target,73.3,3,48.2,43.1
+Softbank,38.7,3.8,58.3,47.2
+AstraZeneca,28.6,6.4,52.5,58
+AIA Group,20.4,3,134.4,53.5
+Occidental Petroleum,24.3,4.6,64.2,67.4
+Philip Morris International,31.4,8.8,37.7,150.6
+Time Warner,28.7,3,68.3,53
+UniCredit Group,54.2,1.1,1221.9,29
+Oil & Natural Gas,28.9,5.5,52.1,50.5
+Manulife Financial,37.3,2,488.2,27.8
+TNK-BP Holding,43.3,7.6,43.3,33
+British American Tobacco,24.1,6.1,44.2,102
+Canadian Imperial Bank,17.1,3,393.2,32
+Vinci,51.7,2.5,80.9,25.4
+BG Group,19.3,4.6,64.4,60.6
+Qualcomm,20.5,6.6,44.8,111.6
+PNC Financial Services,16.6,3,305.1,35.3
+Deere & Co,36.8,3.2,55.2,35.9
+SAIC Motor,75,3.3,48.1,26.7
+Wesfarmers,59,2.2,42.9,51.9
+France Telecom,57.4,1.5,113.9,29.2
+Express Scripts,93.9,1.3,58.1,48.9
+EI du Pont de Nemours,35.3,2.8,49.7,46.6
+Itochu,51.6,3.6,78.1,20.2
+Itaúsa,27.8,2.2,172.4,25.4
+Travelers Cos,25.7,2.5,104.9,31.1
+Renault,54.4,2.3,98.9,20.3
+Honeywell International,37.7,2.9,41.9,57.6
+L'Oréal Group,28.9,3.7,39,94.8
+RWE Group,67,1.7,111.5,22.9
+National Grid,21.7,3.3,75.6,40.7
+McDonald's,27.6,5.5,35.4,99.9
+Canon,40.1,2.6,45.7,41.9
+Mondelez International,35,1.6,75.5,50.5
+Allstate,33.3,2.3,126.9,22.9
+Posco,56.5,2.2,74.5,22.9
+Jardine Matheson,39.6,1.7,63.5,43.3
+Aflac,25.4,2.9,131.1,23.9
+Surgutneftegas,23.4,7.2,51.4,33.7
+SABMiller,16.7,4.3,55,84.1
+Union Pacific,20.9,3.9,47.2,66.5
+Deutsche Post,73.2,2.2,45,29.4
+Japan Tobacco,24.6,3.9,43,61.6
+Amgen,17.3,4.3,54.3,68.7
+Dow Chemical,56.8,1.2,69.6,40.7
+3M,29.9,4.4,33.9,73.4
+Bank of New York Mellon,15.1,2.4,359,33.5
+Christian Dior,38.6,1.8,69.9,32
+Valero Energy,139.2,2.1,44.5,24.4
+Duke Energy,19.6,1.8,113.9,49.3
+KDDI,43.1,2.9,47.4,29.1
+Telstra,25.8,3.5,40.5,58.4
+WellPoint,61.7,2.7,59,19.8
+Walgreen,70.8,2.1,35.6,40.2
+Schneider Electric,31.6,2.4,45.4,42.2
+Dell,56.9,2.4,47.5,25
+China State Construction,76.7,2.2,79.9,16.9
+Aegon,55.2,2,483.2,12.7
+Legal & General Group,56.9,1.3,562.9,15.5
+Lockheed Martin,47.2,2.7,38.7,29.9
+Volvo Group,46.7,1.7,50.4,31.9
+SAP,20.9,3.6,35.5,103.9
+Costco Wholesale,103.1,2,29.1,44.2
+JX Holdings,129.5,2.1,80.7,14.4
+Sumitomo Corp,39.4,3,86.6,16.2
+Carrefour,101.3,1.6,59.4,19.8
+China Unicom,39.5,1.1,82.8,32.4
+Eli Lilly & Co,22.6,4.1,34.4,62.5
+DNB,14.4,2.5,406.8,26.5
+East Japan Railway,30.6,1.3,82.9,32.5
+Seven & I Holdings,58.9,1.6,47.6,27.4
+BT Group,30.9,3.2,37.3,32.5
+Lowe's Cos,50.5,2,32.7,43.1
+Old Mutual,32.2,1.9,230.4,15.5
+Marathon Petroleum,76.5,3.4,27.2,29.1
+People's Insurance Company,41.3,1.1,110.5,24.4
+Taiwan Semiconductor,17.4,5.7,32.7,89.9
+EMC,21.7,2.7,38.1,53.3
+Southern Co,16.5,2.4,63.1,39.6
+Danone,27.5,2.2,38,43.3
+Standard Bank Group,21,1.9,182,19.9
+Altria Group,17.5,4.2,35.3,67.7
+VTB Bank,16.1,2.8,210,18.9
+Teva Pharmaceutical Inds,20.9,2,50.5,35.5
+Continental,43.2,2.5,35.2,25.3
+Hess,37.7,2,43.4,24.8
+Archer Daniels Midland,90.6,1.4,45.1,21.7
+McKesson,123.5,1.6,33.4,25.7
+Gas Natural Fenosa,32.9,1.9,60.4,20.4
+BCE,20,2.8,41.2,35.6
+China Everbright Bank,13.5,2.9,275.1,21
+Diageo,16.9,3,34.5,76.4
+SEB,14.4,1.8,376.8,23.5
+LyondellBasell Industries,46.4,2.9,24.2,36.8
+Centrica,38.9,2.1,35.4,27.7
+FedEx,43.9,1.8,31.8,34.3
+Svenska Handelsbanken,11.5,2.2,367,28.2
+Bridgestone,38.1,2.2,35.1,27.4
+Sumitomo Mitsui Trust,15.4,2,415.4,18.4
+Time Warner Cable,21.4,2.2,49.8,27.3
+Shinhan Financial Group,16.3,2.1,277.5,17.2
+Marubeni,53,2.1,61.9,13.7
+Natixis,19.2,2.2,658,13.2
+United Parcel Service,54.1,0.8,38.9,81.5
+Apache,17.1,2,60.7,29.6
+BlackRock,9.3,2.5,200.5,44.2
+AbbVie,18,5.3,27,60.9
+Medtronic,16.4,3.5,34.9,46
+Exelon,23.5,1.2,78.6,28.5
+Saint-Gobain,57,1,61,21.6
+Halliburton,28.5,2.6,27.4,39
+Bristol-Myers Squibb,17.6,2,35.9,63.8
+Toshiba,73.7,0.9,65.1,21.3
+Denso,38.1,1.1,43.2,34.9
+Swedbank,10.9,2.2,283.8,27.4
+Brookfield Asset Management,18.6,1.4,108.6,23
+Anadarko Petroleum,13.4,2.4,52.6,42.7
+Kia Motors,42,3.4,30.5,19.8
+Prudential Financial,84.8,0.5,709.3,28.1
+VimpelCom,23.1,2.1,55.4,19
+Woolworths,56.4,1.9,21.5,46.3
+Linde,20.2,1.6,43.5,35.2
+Freeport-McMoRan Copper,18,3,35.4,32.1
+DBS Group,8.8,3.1,288.9,30.7
+Ebay,14.1,2.6,37.1,65.4
+Danaher,18.3,2.4,32.9,43.1
+Sun Life Financial,17.6,2,226.8,16.9
+China Pacific Insurance,27.3,0.8,109.3,28.6
+Hyundai Mobis,28.9,3.3,28.1,26.4
+China Communications Construction,45.7,1.9,69.6,12.9
+Takeda Pharmaceutical,18.2,1.5,43.2,43.6
+NextEra Energy,14.3,1.9,64.4,31.6
+Ping An Bank,13.2,2.2,257.3,18.3
+Air Luquide,20.2,2.1,32.5,39.3
+Danske Bank,22.6,0.8,615.6,19.1
+TeliaSonera,16.1,3.1,38.1,31
+Standard Life,31.2,1.1,283,13.5
+Canadian Natural Resources,14.7,1.9,49.2,36
+Husky Energy,22.5,2,35.3,29
+Cigna,29.1,1.6,53.7,17.9
+Rolls-Royce Holding,19.8,3.7,28.9,30.7
+Ericsson,35,0.9,40.4,44.1
+State Street,10.1,2.1,222.6,27.4
+CNP Assurances,53.2,1.2,466.1,9.9
+Singtel,15,3.2,31.4,45.7
+Imperial Tobacco Group,23.7,1.1,44.4,35.2
+National Oilwell Varco,20,2.5,31.5,30.1
+Oversea-Chinese Banking,8.3,3.3,242.2,29
+Power Corp of Canada,34.2,1.1,272.8,12.4
+Heineken Holding,24.3,1.9,46.7,18.6
+Deutsche Bank,55,0.4,2652.6,41.3
+Central Japan Railway,18.2,1.6,61.3,20.6
+Mitsubishi Electric,44,1.4,39.1,18.8
+Nippon Steel & Sumitomo Metal,49.4,0.7,58.9,25.6
+Emerson Electric,24.7,2.1,23.8,41.6
+Sun Hung Kai Properties,8.8,5.6,60.3,36.4
+Koç Holding,47.1,1.3,61.1,13.6
+ICICI Bank,13.2,1.5,118,22.8
+BB&T,10.7,2,183.9,21.7
+Aetna,36.6,1.7,41.5,16.7
+Wilmar International,46.3,1.3,41.7,17
+China Vanke,15.5,2,60.3,18.9
+Visa,10.7,2.4,35.9,104.8
+China Railway Construction,74.5,1.3,77.1,10.4
+Henkel,21.8,2,25,37.3
+Accenture,30.1,3.1,16.4,53.3
+Reckitt Benckiser Group,15.6,3,24.4,51.2
+Sasol,20.8,2.9,24.7,29.4
+Inditex,20.6,3,17.5,83.3
+China Railway Group,76.7,1.2,88.4,10.2
+KBC Group,21.7,0.8,338.7,16.3
+Johnson Controls,42,1.2,31.2,23.9
+BAE Systems,26.3,1.7,36.2,18.8
+Telenor,18.3,1.7,29.6,34.1
+KB Financial Group,15.6,1.5,265.1,13.2
+Enbridge,25.4,0.7,47.4,36.9
+Fresenius,24.8,1.2,40.5,22.1
+Samsung Life Insurance,19.1,0.8,142.2,17.7
+Komatsu,23.9,2,27.7,22.2
+Maybank,9.1,1.9,161.4,24.3
+Isbank,12.4,1.9,112.7,16.8
+Tata Motors,32.6,2.7,27.6,15.9
+Resona Holdings,9.5,3.1,522.9,13.6
+Kroger,96.8,1.5,24.7,16.3
+SunTrust Banks,11.2,2,173.4,15.7
+Carnival,15.4,1.5,38.7,28.4
+American Electric,14.9,1.3,54.4,23.3
+Chubb,13.6,1.5,52.2,22.3
+Garanti Bank,9.8,1.9,99.2,22
+Inpex,14.3,2.3,36.9,20.6
+NIKE,25.3,2.4,15.6,49.4
+Monsanto,14,2.3,22.5,55.9
+United Overseas Bank,7.2,2.3,207,25.1
+MTN Group,16.5,2.5,21.4,34.5
+Eaton,16.3,1.2,35.8,29.5
+Marathon Oil,15.6,1.6,35.3,24.8
+Femsa,18.5,1.6,22.6,37.7
+Indian Oil,70.8,0.8,43.2,14.2
+Raytheon,24.4,1.9,26.7,18.9
+HCA Holdings,33,1.6,28.1,16.8
+Kimberly-Clark,21.1,1.8,19.9,36.2
+WPP,16.9,1.3,40.3,20.7
+Michelin Group,28.3,2.1,26.4,16.2
+Cardinal Health,104.8,1.1,24.6,15.9
+Thomson Reuters,13.3,2.1,32.6,26.7
+Saudi Telecom,15.8,1.9,31.3,21.7
+Kraft Foods Group,18.3,1.6,23.3,29.8
+Delta Air Lines,36.7,1,44.6,13.6
+Northrop Grumman,25.2,2,26.5,16.3
+Fannie Mae,131.9,7.2,3226.2,2.3
+Illinois Tool Works,17.9,2.9,19.3,28.3
+General Mills,17.4,1.8,22.8,29.9
+SK Innovation,65.1,1.1,31.8,13.7
+Safran,18,1.7,30,19.6
+CenturyLink,18.4,0.8,54,21.5
+Baoshan Iron & Steel,35.4,1.2,36.7,13.4
+Baxter International,14.2,2.3,20.4,37.9
+Freddie Mac,80.6,11,1989.9,1.3
+AMP,17.2,0.7,122.1,16
+Canadian National Railway,10,2.7,26.8,42.7
+Baker Hughes,21.4,1.3,26.7,21.2
+EDP-Energias de Portugal,21.6,1.3,55.2,11.5
+Coal India,12.3,2.9,20.8,37.4
+Kering,12.8,1.4,32.5,29.4
+Hyundai Heavy Industries,48.8,0.9,46.3,11.6
+CBS,14.1,1.6,26.5,29.4
+Viacom,13.2,2.2,21.9,31.3
+Akbank,8.2,1.7,91.6,20.6
+Woori Finance Holdings,15.2,1.4,306.2,9
+NTPC,12.8,1.9,30.5,22.3
+Norilsk Nickel,12.8,3.3,18.8,32.9
+Alstom,26.6,1,39.4,14
+International Paper,27.8,0.8,32.2,20.1
+Sabanci Holding,14.6,1,98.3,12.7
+PPL,12.3,1.5,43.6,17.8
+Pernod Ricard,10.4,1.5,33.5,34.5
+Lloyds Banking Group,75.6,-2.3,1495.9,53.8
+Gilead Sciences,9.7,2.6,21.2,68.4
+Suncorp Group,15.6,0.7,98.3,15.9
+Mitsubishi Estate,12.2,0.7,53.2,40.8
+CSX,11.8,1.9,30.6,24.5
+FirstRand,8.4,1.6,94.1,18
+PG&E,15,0.8,52.4,19.1
+Mapfre,27.1,0.9,69.2,10.7
+Barclays,55.7,-1.7,2422.5,62.3
+Automatic Data,10.9,1.4,33.3,31.3
+Colgate-Palmolive,17.1,2.5,13.4,52.4
+Deutsche Lufthansa,39.7,1.3,37.5,9.7
+Huaneng Power International,21.1,0.9,41.2,14.9
+SK Holdings,106.3,0.9,85.2,7
+TransCanada,8,1.4,48.5,33.9
+Huaxia Bank,10.5,1.5,197.2,11.5
+Texas Instruments,12.8,1.8,20,38.8
+Ameriprise Financial,10.3,1,134.7,15.1
+QBE Insurance Group,17,0.8,50.8,17
+EXOR,117.5,0.7,159.4,7.1
+Lafarge,20.9,0.6,50.5,20.3
+Talanx,34.9,0.8,171.7,7.9
+Norfolk Southern,11,1.7,30.3,23.7
+Orix,11.8,1,101.2,13.5
+Covidien,12,1.9,22,30.9
+FirstEnergy,15.3,0.8,50.4,17.6
+Mitsui Fudosan,16.2,0.6,46.9,25.2
+Royal Bank of Scotland,42.1,-9.4,2133.1,52
+Macy's,27.7,1.3,21,16.2
+Las Vegas Sands,11.1,1.5,22.2,44.1
+Aeon,64.1,0.8,49.1,8.9
+Ageas,20.6,1,128,8.5
+Thermo Fisher Scientific,12.5,1.2,27.4,27.6
+Bouygues,44.3,0.8,48.1,9.4
+Cenovus Energy,16.9,1,24.3,24.4
+Ahold,43.3,1.1,19.4,15.7
+CEZ Group,11.3,2.2,33.4,15.7
+Sampo,8.4,1.9,41.4,22.2
+Hana Financial Group,12.5,1.5,263.9,8.5
+Consolidated Edison,12.2,1.1,41.2,17.3
+Deutsche Telekom,76.9,-6.9,136.1,48.4
+Rio Tinto,51,-3,117.6,98.5
+Generali Group,116.7,0.1,582.4,26
+CLP Holdings,13.5,1.1,29.4,21.7
+Hewlett-Packard,118.7,-12.9,106.7,43.1
+Novo Nordisk,13.8,3.8,11.2,95
+Grupo Mexico,10.4,2.4,18.4,32.3
+Lincoln National,11.5,1.3,218.9,9.1
+Loews,14.6,0.6,80,17.5
+Morgan Stanley,32,0.1,781,46.6
+Fubon Financial,9.4,1,119.3,13.7
+Macquarie Group,11.4,0.8,157.8,13.5
+Bank Mandiri,6.3,1.6,65.5,24
+Rogers Communications,12.5,1.7,19.7,25.3
+Newmont Mining,9.9,1.8,29.6,19.7
+Shin-Etsu Chemical,12.7,1.2,21.8,28.7
+Merck,13.8,0.7,28.6,32
+Fifth Third Bancorp,7.1,1.6,121.9,14.7
+Toyota Tsusho,71.5,0.8,34.4,9.2
+CRH,24.6,0.7,27.6,16.7
+Bharti Airtel,14,0.8,29.8,21.8
+Praxair,11.2,1.7,18.1,33.6
+Xerox,22.4,1.2,30,10.7
+Intesa Sanpaolo,47.7,-10.6,813.8,26.4
+Crédit Agricole,51.2,-8.3,2431.4,23.4
+Bank Rakyat Indonesia,6,1.9,57,22.4
+Porsche Automobil Holding,5.2,10.3,41.1,24.5
+HDFC Bank,6.5,1,66.7,28.1
+National Bank of Canada,7.1,1.6,184,12.3
+Magna International,30.8,1.4,17.1,13.2
+Humana,39.1,1.2,20,11.1
+Kirin Holdings,21.6,0.6,33.6,15.2
+CIMB Group Holdings,6.3,1.4,110.2,16.8
+Keppel Corp,11.4,1.8,23.9,17
+Lotte Shopping,22.2,1,34.6,10.3
+Compass Group,27.3,1,14.4,23.1
+Paccar,17,1.1,18.6,18
+China Coal Energy,13.6,1.5,29.5,12.2
+Aon,11.5,1,30.5,18.7
+EnBW-Energie Baden,24.7,0.6,48.5,10.8
+Kinder Morgan,10,0.4,68.5,41.2
+Siam Commercial Bank,6,1.3,74.2,21.5
+TJX Cos,25.9,1.9,9.5,32.8
+Sysco,43.4,1.1,12.4,19.8
+Fortum,8.1,1.9,32.3,17.6
+Atlas Copco,13.4,2.1,12.5,35.2
+LG Chem,21.9,1.4,15.4,16.2
+Woodside Petroleum,6.4,3,23.9,31.9
+Tatneft,13,2.1,19.5,14.8
+ArcelorMittal,84.2,-3.7,114.6,23.1
+H&M,18.1,2.5,8.8,59.8
+Suzuki Motor,30.3,0.7,27.2,13.3
+Bank of Beijing,6.3,1.4,151.7,13.1
+Public Service Enterprise,9.8,1.3,31.7,16.8
+Mosaic,10.1,1.9,17.3,26.7
+GFNorte,7.7,0.8,70.6,18.5
+Kyocera,14.1,1,24,17.1
+Associated British Foods,19.8,0.9,16.2,22.7
+Origin Energy,13.2,1,28.7,14.9
+Otsuka Holdings,13.9,1.1,19.9,18.6
+Telus,11,1.3,20.5,22.3
+Potash of Saskatchewan,7.9,2.1,18.2,35.3
+Etisalat,9,1.8,21.8,21.8
+Progressive,17.1,0.9,22.7,15.2
+Sempra Energy,9.6,0.9,36.5,19.2
+Corning,8,1.7,29.4,19
+Reed Elsevier,9.9,1.7,17.9,25.6
+Dongfeng Motor Group,19.7,1.4,19.2,11.8
+Tokio Marine Holdings,39.4,0.1,196.4,23.5
+Sandvik,15.2,1.2,16,20.5
+Sony,78.5,-5.5,160.3,17.6
+Poly Real Estate,9.6,1.3,40.3,12.2
+New China Life Insurance,18,0.5,79.2,11.8
+Agrium,16.7,1.5,16,15.3
+Cummins,17.3,1.5,12.5,22.3
+EOG Resources,11.7,0.6,27.3,35.4
+Omnicom Group,14.2,1,22.2,15.7
+Teck Resources,10.4,0.8,34.8,17.4
+Qatar National Bank,4,2.3,100.8,25.7
+Tenaris,11.1,1.7,15.7,24.2
+Tenaga Nasional,11.5,1.3,28.3,12.6
+Swire Pacific,5.7,2.3,41.5,18.8
+Toyota Industries,18.6,0.7,32.2,11.7
+Liberty Interactive,10.1,1.5,26.3,14.6
+J Sainsbury,35.7,1,19.7,10.4
+Aviva,69,-5.1,512.7,14.5
+Anglo American,29.4,-1.5,78.1,39.9
+Cheung Kong Holdings,2.5,4.1,49.4,33.7
+Kasikornbank,6,1.2,67.8,17.5
+Carlsberg,11.6,1,27.2,15.8
+Amazon.com,61.1,0,32.6,119
+Larsen & Toubro,12.6,0.9,23.8,17.2
+Principal Financial Group,9.2,0.8,161.9,10
+Saudi Electricity,9,0.7,63.6,15.3
+Waste Management,13.6,0.8,23.1,17.4
+Murphy Oil,28.6,1,17.5,11.8
+CaixaBank,16.3,0.3,450.1,16.8
+Dai-ichi Life Insurance,56.5,0.2,403.2,13.4
+Nomura Holdings,22.4,0.1,431.3,23.6
+Vivendi,38.3,0.2,76.6,27.8
+Fujitsu,54,0.5,35,9.2
+Charles Schwab,5,0.9,133.6,22.8
+Al Rajhi Bank,4,2.1,71.3,26
+SSE,50.8,0.3,31.1,21.2
+Ingersoll-Rand,14,1,18.5,16.4
+Sime Darby,15,1.3,14.9,17.3
+Halkbank,6.2,1.5,61,13.3
+Philips,32.7,0.3,35.8,27.5
+PPG Industries,15.2,0.9,15.9,20.2
+Mitsubishi Heavy Industries,34.1,0.3,48,18.8
+Transneft,20.8,5.8,57.8,3.6
+Korea Electric Power,43.9,-2.8,129.3,17.4
+Marsh & McLennan,11.9,1.2,16.3,20.3
+KT Corp,21.1,0.9,32.4,8.1
+Kellogg,14.2,1,15.2,22.5
+Aisin Seiki,27.8,0.7,24.7,10.6
+Astellas Pharma,11.7,0.9,16.6,25.9
+Entergy,10.3,0.9,43.2,11.6
+SK Telecom,14.5,1,24.1,11.5
+Simon Property Group,4.9,1.4,32.6,49.5
+Panasonic,94.8,-9.3,76.1,16.7
+AmerisourceBergen,80.6,0.7,15.5,11.3
+Goldcorp,5.4,1.7,31.2,26.4
+Xcel Energy,10.1,0.9,31.1,14.2
+HDFC,5.9,1.1,41.6,23.3
+MasterCard,7.4,2.8,12.5,63.8
+Sumitomo Realty,8.3,0.6,46.7,18.4
+Solvay,16.4,0.8,23.4,12.5
+Yara International,15.1,1.9,14.4,13.2
+Sumitomo Electric,24.9,0.7,25,10
+Quanta Computer,34.4,0.8,24.6,8.5
+Regions Financial,6,1.1,121.3,11.8
+Falabella,11.5,0.8,17.9,26.8
+Adidas,19.6,0.7,14.7,21.8
+Western Digital,15.6,2.1,13.9,12.1
+CIC Group,15.5,0.8,302.3,5.8
+Cencosud,19.1,0.6,19.7,17.4
+Sanlam,10.8,0.7,52.3,10.7
+MS&AD Insurance,42.2,-2,173.4,14.1
+Veolia Environment,38.8,0.5,57.2,6.8
+Wim Morrison Supermarkets,28.8,1,16.6,9.5
+Novatek,6.9,2.3,15.1,31.3
+Air Products & Chemicals,9.9,1.2,17.4,18.7
+PKO Bank Polski,5.7,1.2,62.3,13.8
+Tokyo Gas,21.2,0.6,22.2,13.5
+Precision Castparts,7.9,1.3,16.7,28.5
+Fujifilm Holdings,26.5,0.5,32.4,9.4
+Franklin Resources,7.3,2,14.4,31.9
+SCA,13.1,0.7,20.2,17.3
+Telecom Italia,37.9,-2.1,102.3,15.2
+Ecolab,11.8,0.7,17.6,23.5
+Williams Cos,7.5,0.9,24.3,24.1
+Dominion Resources,13.1,0.3,46.8,32.7
+Tata Steel,26.1,1,28.8,6.4
+Tencent Holdings,7,2,12.1,65
+Sodexo,22.9,0.7,15.9,14.3
+Industrial Bank of Korea,9.3,1,185.9,6.4
+Public Bank,4.2,1.3,89.8,18
+HeidelbergCement,18,0.4,37,13.9
+Ferrovial,10.1,0.9,27.2,11.9
+Cemig,9.5,2.2,19.4,10.7
+Yum Brands,13.6,1.6,9,31.6
+Thales,18.2,0.7,28.2,8.8
+Unum Group,10.5,0.9,62.2,7.5
+Investor,3.5,3.7,35.3,22.9
+Annaly Capital Management,3.3,1.7,133.5,14.8
+Toray Industries,19.2,0.8,18.8,10.4
+Starbucks,13.7,1.4,8.5,43.2
+Kubota,12.2,0.7,18,17.4
+PTT Global Chemical,18.5,1.1,14.2,11.3
+BanColombia,5.9,1,55.4,13.5
+Sprint Nextel,35.3,-4.3,51.6,17.5
+Cathay Financial,9.2,0.4,165.3,14.3
+SLM,6.1,0.9,181.3,9
+Samsung Fire & Marine,14.7,0.7,34.5,8.2
+Bank Central Asia,4,1.2,46,27.1
+Grupo Pão de Açúcar,24.9,0.5,16.8,14.1
+Publicis Groupe,8.7,1,21.8,14.7
+Kohl's,19.3,1,13.9,11.4
+DISH Network,14.3,0.6,17.4,15.9
+Chunghwa Telecom,7.4,1.4,15.2,24.3
+T&D Holdings,24.5,0.3,155.1,8.1
+Stryker,8.7,1.3,13.2,25.1
+Isuzu Motors,16.9,1.1,14.6,10.5
+Hartford Financial Services,26.4,0,298.5,11.5
+Unibail-Rodamco,2.3,1.9,39,22.2
+Yahoo,5,3.9,17.1,24.3
+HJ Heinz,11.6,1,11.9,23.2
+General Dynamics,31.5,-0.3,34.3,24.7
+MTR,4.6,1.7,26.7,23
+China National Building,13.8,0.9,31.2,7.5
+Abertis,5.2,1.4,37.2,14.3
+Westfield Group,2.5,1.8,35.3,25.4
+Mitsubishi Chemical,38.8,0.4,37.4,7.4
+Virgin Media,6.7,4.6,17.1,24.3
+Siam Cement,13.3,0.8,12.8,20.3
+M&T Bank,4.6,1,83,13.4
+Daqin Railway,7.2,1.9,14.9,18.7
+Tata Consultancy Services,9.6,2,8.1,56.9
+China Resources Land,5.7,1.4,29.4,14.6
+Fanuc,6.5,1.7,13.7,29.7
+Datang International Power,12.2,0.6,42.4,8.4
+Bangkok Bank,4.3,1.1,79.1,15.1
+Seagate Technology,16.3,3.2,8.7,12.7
+Ensco,6.8,1.8,18.5,14.1
+Kingfisher,16.8,0.9,15.6,10.3
+HollyFrontier,20.1,1.7,10.3,10.8
+Galp Energia,24.4,0.5,18,13.1
+George Weston,32.8,0.5,21.9,9.1
+Rostelecom,10.4,1.1,17.7,11.3
+Evergrande Real Estate,10.3,1.5,31.1,6.9
+Japan Airlines,14.6,2.3,13.2,8.7
+Jiangxi Copper,25,0.8,12.5,10.8
+PKN Orlen,38.8,0.8,16.9,7.4
+Grupo Aval,6.1,0.7,57.4,13.2
+China Shipbuilding Industry,9.2,0.7,25.3,12.1
+Commerzbank,25.5,0,838.3,9.2
+ThyssenKrupp Group,51.6,-6,47.4,12.4
+JBS,38.9,0.4,24.3,10.4
+China Resources Power,8.1,1,22.9,12.4
+Inter Rao,18.3,1.2,16.6,7.2
+Barrick Gold,14.5,-0.7,47.3,28.7
+MOL Hungarian Oil,24.6,0.7,21.6,7.5
+Wheelock & Co,4.3,3.5,49.4,10
+Daiwa House Industry,22.3,0.4,24,11.5
+Dollar General,16,1,10.4,15.8
+Asahi Group Holdings,13.1,0.7,20,11.1
+Spectra Energy,5.1,0.9,30.6,19.3
+JFE Holdings,38.3,-0.4,47.4,12.6
+Gree Electric Appliances,13.3,0.8,13.5,13.5
+Ooredoo Telecom,9.3,0.8,25.9,10
+Kao Corp,15.4,0.7,12,17.4
+CSN,8.9,2,24.2,7.2
+Asahi Kasei,19,0.7,16.9,9.2
+Yanzhou Coal Mining,9.2,1,18,11.8
+Henderson Land,2,2.6,33.9,15.1
+Nucor,19.4,0.5,14.2,14.8
+Axis Bank,5.3,0.8,55.8,11.6
+Delphi Automotive,15.5,1.1,10.2,13.6
+Stanley Black & Decker,10.2,0.9,15.8,13
+PGE,9.4,1,18.8,10.5
+NKSJ Holdings,30.9,-1.1,105.2,9.4
+Fuji Heavy Industries,18.3,0.5,16.4,12.9
+Deutsche Boerse,2.8,0.8,285.5,12.5
+Telekom Indonesia,8,1.3,11.5,21.4
+Idemitsu Kosan,52.1,0.8,32.4,3.5
+Liberty Global,10.3,0.3,38.3,17.8
+Sekisui House,20,0.6,16.9,9.4
+Nokia,39.8,-4.1,37.8,12.5
+Metro Group,88,0,45.8,9.3
+National Bank of Abu Dhabi,3.1,1.1,81.8,12.4
+Lenovo Group,29.6,0.5,15.5,10.4
+National Bank of Kuwait,2.5,1.1,58.4,14.6
+San Miguel,16.6,0.7,25.1,7
+Samsung C&T,23.8,0.4,24.2,8.5
+MegaFon,8.8,1.2,11.5,17.6
+Bombardier,16.8,0.6,25.8,7.3
+"Becton, Dickinson",7.8,1.5,11.6,17.9
+Celgene,5.5,1.5,11.7,47.1
+British Sky Broadcasting,10.7,1.4,8.6,21.6
+KPN,16.4,0.9,27.2,5.5
+DTE Energy,8.8,0.6,26.3,11.4
+Fortescue Metals Group,7,1.6,14.9,13.2
+ConAgra Foods,13.8,0.7,12.5,14.4
+Gap,15.7,1.1,7.5,17.5
+RusHydro,11.3,1,25.3,6.9
+VF,10.9,1.1,9.6,18.2
+CME Group,2.9,0.9,38.9,21.1
+XL Group,7.2,0.7,45.4,9
+CSR,14.1,0.6,16.8,9.9
+VakifBank,6.3,0.8,60.6,7.9
+ALFA,15.6,0.7,11.8,12.7
+Noble Group,94,0.5,19.7,6.2
+Fast Retailing,11.8,0.9,7.5,32.6
+Novolipetsk Steel,12.2,0.6,18.5,10.7
+Li & Fung,20.2,0.6,12,11.5
+Punjab National Bank,8.2,1,92.3,5
+Symantec,6.8,1.1,14,16.9
+Motorola Solutions,8.7,0.9,12.7,17.1
+Northern Trust,4.2,0.7,97.5,13
+KeyCorp,4.7,0.9,89.2,9.3
+Chubu Electric Power,29.6,-1.1,65.8,9
+New World Development,4.6,1.3,36.8,10.7
+Genting,5.6,1.4,21.5,11.6
+Severstal,14.1,0.8,15.7,8.7
+Bank of Baroda,6.8,1,89.8,5.5
+Anhui Conch Cement,7.2,1,14,15.9
+Luxottica Group,9.3,0.7,10.9,23.7
+LG Electronics,45.3,0.1,29.6,11.6
+RSA Insurance Group,14.4,0.6,33.4,6.3
+Technip,10.8,0.7,14.9,11.8
+BRF-Brasil Foods,13.9,0.4,24.3,10.4
+Krung Thai Bank,4.1,0.8,73.7,12.4
+United Continental Holdings,37.2,-0.7,37.6,10.3
+Industries Qatar,5.1,2.3,11,26.5
+Osaka Gas,15.6,0.5,17.9,8.7
+Asahi Glass,14.9,0.5,21.9,7.8
+China Yangtze Power,3.3,1.2,25.2,19.4
+West Japan Railway,15.6,0.4,30.6,9.2
+SCOR,13.4,0.6,43,5.8
+ASML Holding,6.2,1.5,9.7,28.9
+Newcrest Mining,4.5,1.1,20.8,17.5
+Daikin Industries,14.7,0.5,14,12.5
+Tyson Foods,33.4,0.6,11.9,8.7
+Samba Financial Group,2,1.2,53.1,10.8
+Biogen Idec,5.5,1.4,10.1,41.8
+Tokyu,13.2,0.4,23.8,9.3
+Grupo ACS,50.7,-2.5,51.5,7.7
+NRG Energy,8.4,0.6,35.1,8.4
+Reynolds American,4.4,1.3,16.6,23.8
+Pearson,8.2,0.5,18.1,14.9
+Couche Tard,33,0.5,10.5,10.2
+Bunge,61,0.1,24.1,11.1
+Seadrill,4.5,1.1,19.6,17.6
+Atlantia,4.4,1,40.1,10.6
+Antofagasta,6.7,1,12.9,16.1
+Kansai Electric Power,34,-2.9,86.7,7
+Magnit,14.4,0.8,5.5,18.8
+Marks & Spencer,15.9,0.8,11.6,9.1
+S-Oil,30.8,0.5,11.7,9.4
+Northeast Utilities,6.3,0.5,28.3,13.4
+Formosa Petrochemical,30.2,0.1,15.4,26.5
+First Gulf Bank,2.6,1.1,47.7,11.1
+Grupa PZU,6.3,1,18.1,11.3
+Tesoro,33,0.7,10.7,7.8
+Devon Energy,9.5,-0.2,43.3,23.6
+Grupo Modelo,7.2,1,9.6,29
+Bharat Heavy Electicals,9.4,1.4,12.9,9
+Southwest Airlines,17.1,0.4,18.6,9
+Edison International,11.9,-0.1,44.4,16.6
+Hyundai Steel,13.3,0.7,21.4,6.3
+Sinohydro Group,18,0.6,25.8,5.5
+Fairfax Financial,8,0.5,36.9,8.2
+Safeway,44.2,0.6,14.7,6
+Estée Lauder Cos,10,0.9,7.2,24.5
+Cemex,15.3,-0.9,35.9,13.6
+Zoomlion Heavy Industry,7.6,1.2,13.8,10.5
+Republic Services,8.1,0.6,19.6,11.5
+LG Corp,8.7,0.8,15.1,10.2
+Chesapeake Energy,12.3,-0.8,41.6,15
+Country Garden Holdings,6.6,1.1,21.9,8.2
+Akzo Nobel,20.3,-2.9,22.6,16.2
+KGHM Polska Miedz,8.7,1.6,10.7,10.7
+Pgnig Group,8.8,0.7,15.5,11
+Broadcom,8,0.7,11.2,19.7
+Infosys,6.6,1.6,7.5,30.5
+Citic Pacific,12,0.9,31.9,4.7
+Sistema,30,0.2,43.7,8.1
+Noble Energy,4.2,1,17.6,20.8
+Mobily,6.3,1.6,10.3,16.3
+Cameron International,8.5,0.8,11.2,16.5
+Alcoa,23.7,0.2,40.2,9.2
+Samsung Heavy Industries,12.9,0.7,15.6,7.5
+Credicorp,3.6,0.8,41,12.7
+IDGC Holding,19.7,0.7,27.3,2.6
+Citic Securities,2.2,0.7,27,23.1
+GD Power Development,8,0.6,29.2,8
+China Resources Enterprise,16.3,0.5,16.4,7.6
+Bank of East Asia,3.7,0.8,89.3,9
+Turk Telekom,7.1,1.5,9.5,15
+L-3 Communications,13.1,0.8,13.8,7.3
+Agilent Technologies,6.9,1.1,10.7,14.9
+Allergan,5.8,1.1,9.2,32.7
+AES,18.1,-0.9,41.8,9.3
+Axiata Group,5.8,0.8,14,17.2
+Allied Irish Banks,4.6,-4.8,161.5,50
+TRW Automotive Holdings,16.4,1,10.9,7.1
+DaVita,8.2,0.5,16,12.5
+HCP,1.9,0.8,19.9,22.1
+Wipro,7.3,1.1,8.5,20.1
+Riyad Bank,2.1,0.9,50.7,9.1
+All Nippon Airways,17.1,0.3,23.5,7.8
+Mahindra & Mahindra,10.9,0.6,12.5,10.5
+Grupo Inbursa,3.6,0.7,26.2,18.5
+Oi,12.3,0.4,14.7,19.2
+Cognizant Technology,7.3,1.1,6.5,23.6
+Federal Grid of UES,4.3,1.5,36.2,7.2
+Sumitomo Metal Mining,10.2,0.8,13.9,8
+CF Industries Holdings,6.1,1.8,10.2,12.8
+LG Display,26.1,0.2,23,10.4
+Bed Bath & Beyond,10.2,1,6.4,13.8
+Unipol Gruppo,17.8,0.3,109.7,1.8
+Mega Financial Holding,2,0.6,86.4,9.7
+Hanwha Life Insurance,9.4,0.5,61,5.3
+Whirlpool,18.1,0.4,15.4,9.1
+Metallurgical Corp of China,34.1,-1.1,56.2,5.9
+Ajinomoto,14.5,0.5,13.2,8.7
+Skanska,19.9,0.4,13.4,8
+Dover,8.1,0.8,10.4,12.9
+Stora Enso,14.3,0.6,17.9,5.7
+Resolution,17.6,-0.1,207.5,5.7
+CPFL Energia,7.7,0.6,15.2,10.4
+Priceline.com,5.3,1.4,6.6,35.6
+Tokyo Electric Power,64.6,-9.4,188.8,3.6
+Eisai,7.8,0.7,11.7,13
+ITC,5.2,1.2,5.9,44.1
+Turkcell,5.9,1.2,10.5,14.8
+Textron,12.2,0.6,13,8.4
+Bank Hapoalim,5.1,0.7,100.8,5.9
+DSM,12,0.4,15.3,11.4
+Equity Residential,2.1,0.8,17.2,20.2
+Shanghai Electric Group,12.1,0.4,18.3,8
+Kone,8.3,0.8,6.5,20.5
+Essilor International,6.6,0.8,9,24.1
+Sany Heavy Industry,8.1,1.4,8.1,13
+Mazda Motor,24.6,-1.3,23.2,9.5
+Aluminium Corp of China,23.7,-1.3,28.7,8.4
+Saudi British Bank,1.6,0.9,41.8,8.9
+Canadian Pacific Railway,5.7,0.5,14.8,22.1
+CapitaLand,2.7,0.8,30.9,11.6
+Korea Gas,31.1,0.3,34.3,4.7
+China Southern Airlines,15.7,0.4,18.3,8
+SJM Holdings,10.3,0.9,4.8,13.1
+Reinsurance Group of America,9.8,0.6,40.4,4.5
+Nikon,11.1,0.7,10.3,9.4
+China CNR,14.2,0.5,15.4,7.2
+CenterPoint Energy,7.5,0.4,22.9,10
+Intact Financial,7.2,0.6,19.9,8.4
+Hankyu Hanshin Holdings,7.8,0.5,27.6,7.5
+Asustek Computer,15.2,0.8,8.7,8.8
+China Eastern Airlines,13.5,0.5,19.4,5.7
+Discovery Communications,4.5,0.9,12.9,19
+NEC,36.7,-1.3,23.2,9.5
+Power Assets Holdings,1.3,1.3,13.1,19.5
+AutoZone,8.7,1,6.7,14.1
+Dentsu,22.9,0.4,14.3,8
+Fluor,27.6,0.5,8.3,10.5
+Amcor,12.5,0.4,11.5,11.9
+Peugeot,73.1,-6.6,84.7,3
+Banco Popular Español,9.1,-3.2,203.2,7.8
+Hong Kong & China Gas,3.2,1,12.8,25
+VMware,4.6,0.7,10.6,35.9
+Zijin Mining Group,7.6,0.8,10.8,10.8
+SKF Group,9.9,0.7,9.1,11.7
+Isetan Mitsukoshi Holdings,15,0.7,14.9,5.3
+Dexia,26.6,-16.2,534.9,0.1
+Bank of Yokohama,3.6,0.6,155.1,7.1
+Uralkali,3.2,1.1,12.7,22.8
+Ricoh,23,-0.5,27.2,7.9
+Belgacom,8.5,0.9,10.7,8.9
+L Brands,10.5,0.8,6.4,13
+Genworth Financial,10,0.3,113.3,5.2
+Sherwin-Williams,9.5,0.6,6.2,17.4
+Galaxy Entertainment,7.3,1,5.7,16.7
+RTL Group,7.7,0.8,10.4,11.5
+Assa Abloy,7.2,0.8,9.2,14.9
+Capgemini,13.5,0.5,12.6,8.1
+Hindalco Industries,15.8,0.7,19.9,3.4
+Suning Appliance,14.9,0.8,9.4,7.4
+Chinatrust Financial,2.4,0.6,66.7,8.2
+Oneok,12.6,0.4,15.9,9.2
+IntercontinentalExchange,1.4,0.6,37.2,11.7
+London Stock Exchange,1.1,0.8,163.6,5.7
+Genuine Parts,13,0.6,6.8,11.7
+Leucadia National,9.2,0.9,9.3,9.9
+Formosa Plastics,7.4,0.5,11.8,15.3
+Uni-President,14.5,0.4,11.6,9.5
+OTP Bank,6.6,0.5,45.8,5.6
+Nordstrom,12.1,0.7,8.1,10.6
+China Steel,12.1,0.2,21.3,13.7
+Vornado Realty,2.8,0.6,22,15.6
+Ross Stores,9.7,0.8,3.7,12.5
+Sabesp,5.5,1,12.8,10.5
+WW Grainger,9,0.7,5,15.6
+International Airlines,23.9,-1.2,25.6,7.6
+Computer Sciences,15.5,0.5,11.3,7.5
+Charoen Pokphand Foods,11.7,0.6,10.1,9
+SM Investments,5.3,0.6,13.6,16.6
+Mylan,6.8,0.6,11.9,12.1
+Whole Foods Market,12.2,0.5,5.1,16.1
+Grupo Televisa,5.4,0.7,12.6,14.9
+American Tower,2.9,0.6,14.1,29.9
+Canara Bank,6.7,0.7,74.4,3.5
+Bank Negara Indonesia,3.2,0.7,34.6,9
+Evraz Group,16.4,0.5,17,5.4
+Investec,5.8,0.4,82.1,6.5
+Industrias Peñoles,7.4,0.8,6.4,17.4
+Banque Saudi Fransi,1.6,0.8,42.1,7.4
+Campbell Soup,8.1,0.7,8.6,13.1
+Espirito Santo Financial,8.7,0.4,114.5,1.4
+Marriott International,11.8,0.6,6.3,12.6
+Beirsdorf,8,0.6,7.2,20.8
+Secom,8.2,0.4,13.2,11.6
+Daiwa Securities,5.1,-0.5,229.9,12
+Kweichow Moutal,3.8,2.1,6.2,29.6
+Eletrobrás,17.5,-3.5,84.1,5
+AngloGold Ashanti,6.1,0.8,12.6,9.5
+Formosa Chemicals,13.2,0.2,16,14.1
+Antarchile,22.8,0.2,22.3,7.5
+Rexel,17.7,0.4,13.4,6.4
+Jeronimo Martins,14,0.5,5.9,12.8
+Petronas Chemicals,5.4,1.2,8.3,16.3
+Inveco,4.2,0.7,17.5,12.8
+Electrolux Group,16.9,0.4,11.2,8.1
+PartnerRe,5.6,1.1,23,5.4
+Banco de Sabadell,8.5,0.1,213,6.6
+Best Buy,49.6,-0.2,16.8,7.2
+Everest Re Group,4.9,0.8,19.8,7.8
+Onex,27.4,-0.1,36.3,5.3
+Daiichi Sankyo,11.3,0.1,17.9,13.9
+SK Hynix,9.6,-0.1,17.1,18
+Insurance Australia Group,9.2,0.2,25.4,12.4
+Sinopharm Group,21.5,0.3,12.8,8
+Chow Tai Fook Holdings,7.3,0.8,6.1,13.8
+Weyerhaeuser,7.1,0.4,12.6,16.6
+CSL,4.5,1,5.8,32
+Banque Nationale de Belgique,2.4,1.2,165.8,1.4
+Great Wall Motor,6.6,0.9,6.8,14.3
+Ryanair Holdings,5.8,0.7,12,10.7
+Baidu,3.5,1.7,7.3,29.7
+Hermès International,4.5,1,3.5,34.9
+GAIL India,8.7,0.9,10,7.6
+Shizuoka Bank,2.4,0.4,117.8,7.3
+Advanced Info Service,4.6,1.1,3.1,23.2
+Longfor Properties,4.4,1,16.8,8.6
+Steinhoff International,9.9,0.7,16.2,5
+Dassault Aviation,5.1,0.7,13.7,11.9
+Coca-Cola Enterprises,8.1,0.7,9.5,10.1
+Haitong Securities,1.6,0.5,20.3,16.7
+Ralph Lauren,6.9,0.7,5.5,15.5
+Hershey,6.6,0.7,4.8,18.2
+Singapore Airlines,11.8,0.3,17.5,10
+Bank of India,6.3,0.5,76.1,3.4
+RHB Capital,2,0.6,61.8,6.8
+Mitsubishi Motors,21.8,0.3,15.9,6.8
+Finatis,54.9,0.2,40,0.5
+Lear,14.6,1.3,8.2,5.4
+Mechel,11.4,0.7,19.3,2.2
+GKN,10.6,0.8,9.7,6.8
+Emirates NBD,3.8,0.6,83.9,5.8
+Eastman Chemical,8.1,0.4,11.6,11.2
+Shaw Communications,5.1,0.8,12.5,10.8
+Huntington Bancshares,3,0.6,56.2,6.3
+Steel Authority of India,9,0.7,15.4,5.3
+DP World,3.1,0.7,16.4,12
+Bidvest Group,16.4,0.5,6.8,8.1
+Comerica,2.7,0.5,65.4,6.9
+Murata Manufacturing,7.1,0.4,12,15.6
+Mattel,6.4,0.8,6.5,14.5
+Chonqing Rural Bank,3.6,0.8,69.6,5
+Bank of Ireland,8.2,-2.4,195.3,6
+CA,4.7,0.9,11.6,11.6
+TD Ameritrade Holding,2.6,0.6,21,11.5
+Adobe Systems,4.4,0.7,10.2,20.6
+Südzucker,9.3,0.5,10.9,8.6
+Avnet,25.2,0.5,10.6,5
+CH Robinson Worldwide,11.4,0.6,2.8,9.6
+Land Securities Group,1.1,0.8,17.3,9.8
+Yamada Denki,22.2,0.7,11.2,4
+Mitsubishi UFJ Lease,8.8,0.4,44.6,4.3
+Nan Ya Plastics,10.2,0.1,16.3,13.9
+NetApp,6.3,0.5,10.9,12.4
+Chiba Bank,2.4,0.5,132.2,6
+Abu Dhabi Commercial Bank,2.6,0.7,49.2,6.1
+Johnson Matthey,19.3,0.5,5.2,7.5
+Latam Airlines,9.7,0,21,11.1
+Tingyi Holding,9.2,0.5,7.5,15
+Public Storage,1.8,0.9,8.8,26.7
+Areva,12.3,-0.1,39.8,6.2
+Sun Art Retail Group,12.3,0.4,7.2,13.9
+Subsea 7,6.3,0.8,10.5,8.3
+Santos,3.4,0.5,17.7,13.1
+Bankia,12.2,-24.5,372.6,0.7
+Land Lease Group,11.9,0.5,12.6,5.8
+Norsk Hydro,11.7,-0.2,20.9,9
+Fidelity National Information,5.8,0.5,13.6,11.3
+Fosun International,8.2,0.6,26,4.1
+Sears Holdings,39.9,-1.1,19.3,5.5
+Delta Lloyd,14.6,-2,105.5,3.3
+UC Rusal,11,-0.1,25.5,8.1
+Sumitomo Chemical,23.5,0.1,28.1,5.1
+Banca MPS,12.1,-4.1,288.9,3.2
+Alleghany,4.8,0.7,22.8,6.4
+Hyundai Engineering,11.8,0.5,12,6.4
+Canadian Tire,11.5,0.5,13.2,5.6
+Shanghai International Port,4.5,0.8,13.3,9.8
+St Jude Medical,5.5,0.8,9.3,11.9
+Eiffage,18,0.3,33.8,4.1
+Tohoku Electric Power,20.4,-2.8,48.9,3.6
+Ventas,2.5,0.4,19,20.6
+Shoppers Drug Mart,10.8,0.6,7.5,8.5
+Link REIT,0.8,1.2,10.2,12.7
+Air France-KLM,33.8,-1.6,34.7,3.1
+SembCorp Industries,8.3,0.6,10.5,7.4
+Lanxess,11.7,0.7,8.7,6.8
+CarMax,10.6,0.4,9.3,9.5
+Coach,4.9,1.1,3.3,14.2
+Staples,24.4,-0.2,12.3,9
+Hang Lung Group,1,0.7,23.6,7.9
+Assurant,8.5,0.5,28.9,3.5
+Talisman Energy,7.3,0.1,21.9,12.7
+Attijariwafa Bank,3.4,0.5,43.5,6.7
+China Cosco Holdings,14,-1.5,26.5,6.4
+Kyushu Electric Power,18.2,-2,51.6,4.3
+Lorillard,4.6,1.1,3.4,14.9
+BCI-Banco Credito,2.7,0.5,31,7.9
+Kintetsu,11.4,0.1,22.2,8.1
+NiSource,5.1,0.4,21.8,8.8
+Rockwell Automation,6.3,0.7,5.7,12.4
+Naspers,5.1,0.4,10.5,27.7
+Zain,4.6,0.9,10.4,10.8
+SES,2.4,0.9,11.8,12.6
+W&W-Wüstenrot,8.8,0.3,101.8,1.9
+Power Grid of India,2,0.6,18.2,9.3
+Nippon Express,19.7,0.3,15,5.2
+Gjensidige Forsikring,4.1,0.8,16.8,8.4
+PLDT,4,0.9,9.9,15.1
+LeGrand,5.9,0.7,8.8,12.2
+Dai Nippon Printing,18.2,-0.2,19.1,6.4
+KazMunaiGas Exploration,5.3,1.1,10.4,7.9
+Arab National Bank,1.5,0.6,36.4,6.2
+Starwood Hotels,6.3,0.6,8.9,12.3
+Westfield Retail Trust,0.5,0.9,13.8,9.8
+Finmeccanica,22.4,-3,38.4,3
+Hertz Global Holdings,9,0.2,23.3,8.5
+Western Union,5.7,1,9.5,8.3
+Facebook,5.1,0.1,15.1,63.5
+Sharp,29.7,-4.5,31.8,3.7
+Shimao Property Holdings,4.5,0.9,19.2,5.9
+Harley-Davidson,5.6,0.6,9.2,12.5
+Cielo,2.6,1.1,4.7,18.9
+Vedanta Resources,14,0.1,45.4,4.7
+Nintendo,7.8,-0.5,15.9,14.4
+Daito Trust Construction,13.1,0.6,6.7,7
+Thai Beverage,5.2,0.9,6.8,12.3
+Belle International Holdings,5.2,0.7,4.6,15.3
+Cathay Pacific Airways,12.6,0.1,20.5,7.1
+Arrow Electronics,20.4,0.5,10.8,4.4
+New York Community,2.1,0.5,44.1,6.3
+Mediolanum,15,0.1,43.7,4.5
+Bank of Ayudhya,2.8,0.5,34.8,7.2
+Dollar Tree,7.4,0.6,2.8,10.1
+Phoenix Group Holdings,1.9,0.6,140,2.2
+National Bank of Greece,10.4,-16,137,1
+Quest Diagnostics,7.4,0.6,9.3,8.9
+Flextronics International,24.7,0.4,11.2,4.5
+Liberty Media,2,1.4,8.3,13.4
+Aozora Bank,1.6,0.6,61.3,5.1
+Nippon Yusen,21.8,-0.9,25.7,4.7
+WR Berkley,5.8,0.5,20.2,5.9
+Shire,4.6,0.7,7.3,17.2
+Schroders,2.3,0.4,23.8,9.2
+Intuit,4.2,0.8,5.1,19.4
+Coventry Health Care,14.1,0.5,8.8,6.3
+Pohjola Bank,5.1,0.4,58.8,5.2
+Hormel Foods,8.3,0.5,4.6,10.4
+Keyence,2.6,0.8,8.6,18.3
+Hong Kong Exchanges,0.8,0.5,10.4,20.2
+Terna,2.3,0.6,18.6,8.3
+Grupo Bimbo,13.5,0.2,10.1,13
+T Rowe Price,3,0.9,4.2,19.5
+Nidec,8.2,0.5,9.6,8
+Continental Resources,2.6,0.7,9.1,17.2
+Emaar Properties,2.4,0.6,16.6,9.2
+China Oilfield Services,3.5,0.7,12,11.1
+Bharat Petroleum,36.7,0.2,15.3,15.4
+CMS Energy,6.3,0.4,17.1,7.3
+Delhaize Group,29.2,0.1,15.8,5.5
+Zimmer Holdings,4.5,0.8,9,12.5
+Brambles,5.6,0.6,7.7,14.1
+Grupo Carso,6.4,0.6,5.9,11.3
+Bank of Greece,5.4,0.3,210.7,0.4
+O'Reilly Automotive,6.2,0.6,5.7,11.5
+Next,5.6,0.8,3,10
+Experian,4.5,0.7,7.8,18
+Wisconsin Energy,4.2,0.5,14.3,9.5
+Lixil Group,15.6,0,17.6,6.1
+Delek Group,18.6,0.1,30.7,3
+AmBank Group,2.1,0.5,36.4,6.1
+K+S,5.1,0.9,8.8,9.4
+Kawasaki Heavy Industries,15.8,0.3,16.1,5.3
+Innolux,16.3,-0.1,20.6,5.4
+Kuwait Finance House,3.6,0.3,52.2,8.1
+Canadian Oil Sands,3.7,1,10.2,10.2
+Valeo,15.1,0.5,11.8,4.3
+Brenntag,12.5,0.4,7.5,7.7
+Colruyt,10.5,0.5,4.2,8.2
+Tullow Oil,2.4,0.6,9.4,17.2
+Industrial Alliance Insurance,7.5,0.3,42,3.5
+Kobe Steel,22.5,-0.2,26,3.8
+JM Smucker,5.9,0.5,9.2,10.4
+Alcatel-Lucent,19.1,-1.8,28.2,3.5
+Dr Pepper Snapple Group,6,0.6,8.9,9
+Cosmo Oil,37.6,-0.1,20,1.8
+Mercantil Servicios,3.9,1,33.2,3.4
+AMR,24.9,-1.9,23.5,1.3
+BPI,1.4,0.4,23.9,9.1
+Applied Materials,8.1,0,11.7,16
+Health Care REIT,1.8,0.3,19.5,17.1
+Wuliangye Yibin,3,1,5.9,14.7
+Saudi Arabian Fertilizers,1.3,1,2.7,13.8
+MGM Resorts,9.2,-1.8,26.3,6.4
+Tokyo Electron,7.6,0.4,9.3,8.5
+Chugoku Electric Power,14.3,0,34.2,4.4
+Weichai Power,7.6,0.5,10.6,7
+Shoprite Holdings,10.1,0.4,3.7,10.2
+SMC Corp,4.1,0.7,8.9,13.2
+El Puerto de Liverpool,5,0.5,6.6,15.5
+OHL Group,5.3,1.3,15.2,3.5
+Braskem,17.3,-0.4,19.6,5
+Industrivarden,0.4,1.7,10.5,7.2
+BM&F Bovespa,1,0.5,11.7,13.4
+First Quantum Minerals,3,1.8,7.5,10.2
+General Growth Properties,2.5,-0.5,27.3,18.7
+SanDisk,5.1,0.4,10.3,13.3
+Tokyu Land,6.7,0.4,21,5
+Henan Shuanghui Investment,6.3,0.5,2.7,12.6
+Prologis,2,0,27.3,18.7
+ZTE,13.3,-0.4,16.4,6.5
+EnCana,5.2,-2.8,18.7,15
+Banco Popolare,7.8,-2.9,169.9,2.6
+Alrosa,4.7,0.9,10,7.7
+Boston Scientific,7.2,-4.1,17.2,10
+American Financial Group,5.1,0.5,39.2,4.2
+Prada,3.3,0.6,3.6,25.8
+Metalurgica Gerdau,18.5,0.2,25,3.8
+NMDC,2.2,1.4,6.9,10.6
+Storebrand,9,0.2,75.6,2
+Shin Kong Financial,9.2,0.2,70,2.7
+Hebei Iron & Steel,21.2,0.2,22.8,4.1
+US Airways Group,13.8,0.6,9.4,2.6
+Celanese,6.4,0.6,9.2,7.5
+Regeneron Pharmaceuticals,1.4,0.8,1.7,16.7
+Inner Mongolia Yitai,5,1,6.4,8.7
+HTC,9.8,0.6,7.1,6.6
+Adani Enterprises,7.7,0.4,21,4.9
+UBI Banca,7.4,0.1,174.8,3.7
+Global Logistic Properties,0.6,0.5,13.6,9.8
+Nielsen Holdings,5.6,0.3,14.6,12.9
+Bank of Ningbo,2.4,0.5,41.3,4.9
+PGN,2.6,0.9,3.9,13.5
+Intuitive Surgical,2.2,0.7,4.1,18.4
+Dangote Cement,1.5,0.8,3.2,15.1
+Greentown China Holdings,5.6,0.8,17.3,3.2
+Fresnillo,2.2,0.7,3.3,16.1
+Avalonbay Communities,1,0.4,11.2,16.6
+UPM-Kymmene,13.8,-1.7,16.1,6.1
+Ameren,6.8,-1,21.8,8.3
+Clorox,5.6,0.6,4.5,11
+Guangzhou R&F,4.8,0.9,15.8,4.8
+IDBI Bank,5,0.4,56.9,2.1
+Samsung SDI,5.1,1.3,10.2,5.5
+Arch Capital Group,3.5,0.6,17.8,6.9
+Portugal Telecom,8.5,0.3,26.5,4.7
+Petrofac,6.5,0.6,5.3,8.1
+Metso,9.9,0.5,8.5,6.3
+GS Holdings,8.7,0.4,12,5.4
+FMC Technologies,6.2,0.4,5.9,12.5
+British Land,0.6,0.8,13,7.5
+Toppan Printing,18.2,0,19.1,4.6
+Metro Inc,12.1,0.5,5.2,6
+Yamato Holdings,15.2,0.2,11,7.7
+Turkish Airlines,8.3,0.6,10.5,4.8
+Cosan,14.1,0.3,12.2,5.5
+Mitsui OSK Lines,17.3,-0.3,23.5,4.2
+MBIA,2.4,1.2,21.7,2.3
+Ingram Micro,37.8,0.3,11.5,3
+Century Tokyo Leasing,8.7,0.3,27.4,2.6
+BorgWarner,7.2,0.5,6.4,9.2
+Hindustan Petroleum,32.6,0,16.8,1.9
+Qingdao Haier,12.6,0.5,8,5.4
+Stockland Australia,2.1,0.5,14.9,8.8
+E-mart,11.3,0.4,11.5,5.4
+Interpublic Group,7,0.4,13.5,5.5
+Orascom Construction,5.4,0.7,9.8,7
+Molson Coors Brewing,3.9,0.4,16.2,8.8
+Shinsei Bank,4.5,0.1,104.4,6.6
+IHI,14.8,0.3,15.7,4.5
+Research In Motion,11.1,-0.6,13.2,7.9
+Want Want China,3.4,0.6,3.5,19.8
+Royal Carribean Cruises,7.7,0,19.8,7.4
+Charter Communications,7.5,-0.3,15.6,9.1
+Delta Electronics,5.8,0.5,6.3,9.8
+Micron Technology,8,-1.1,13.9,9.6
+FCC,14.7,-1.1,25.1,1.3
+CCR,3,0.6,7,17.3
+Oji Holdings,14.7,0.3,19.7,3.5
+Hyundai Glovis,10.4,0.4,4,6.7
+Fiserv,4.5,0.6,8.5,11.4
+Fidelity National Financial,7.2,0.6,9.9,5.5
+Remgro,1.7,1.1,7.1,9.9
+HAL Trust,5.2,0.6,8.4,9
+Synovus Financial,1.3,0.8,26.8,2.2
+AGL Energy,7.6,0.1,14.5,9.5
+Mitsubishi Materials,17.4,0.1,21.1,3.8
+Wendel,8.6,0.3,18.8,5.4
+Enka,5.7,0.6,8.2,8.3
+Bank of Nanjing,2.2,0.5,44.7,4.4
+Wynn Resorts,5.2,0.5,7.3,12.1
+Medipal Holdings,33.2,0.1,15.5,3.2
+Coca-Cola Amatil,5.3,0.5,7,12.1
+Kajima,17.6,0,20.2,2.9
+Power Finance,2.6,0.6,26.5,4.9
+SQM,2.5,0.7,4,14.8
+Lennar,4.4,0.7,10.4,7.7
+Qantas Airways,16.1,-0.3,21.7,4.1
+Arab Bank,2.1,0.3,45.6,5.9
+Orica,6.9,0.4,7.7,9.6
+CP All,6.2,0.4,2.3,13.9
+Valeant Pharmaceuticals,3.5,-0.1,18,21.2
+TUI,23.6,-0.1,16.8,2.8
+Maxis,2.9,0.6,5.8,15.6
+YTL,6.4,0.4,16.3,5.6
+Sino-Ocean Land Holdings,4.6,0.7,20.2,3.5
+Jacobs Engineering,11,0.4,6.9,7
+Boston Properties,1.9,0.3,15.5,16
+CIT Group,4,-0.6,44,9
+Kotak Mahindra Bank,2.6,0.4,18.1,9.2
+DR Horton,4.7,1,7.3,7.8
+Family Dollar Stores,9.6,0.4,3.7,6.9
+Analog Devices,2.7,0.6,5.7,13.9
+Banco Comercial Português,6.3,-1.6,116,2.8
+Fuji Media Holdings,7.2,0.7,11.4,4
+Consol Energy,5.4,0.4,12.7,7.7
+Cincinnati Financial,4.1,0.4,16.5,7.7
+Goodyear,21,0.2,17,3.4
+Lotte Chemical,14.1,0.3,9.8,6.5
+United Utilities,2.5,0.5,16,7.1
+CJ Corp,15.7,0.2,20.1,3.6
+Yamana Gold,2.3,0.4,11.8,11
+Pirelli & C,7.8,0.5,10,5.3
+Randstad Holding,22.5,0,8.3,7.6
+LabCorp,5.7,0.6,6.8,8.5
+Smith & Nephew,4.2,0.7,5.5,10.2
+Golden Agri-Resources,6.1,0.4,13.3,6.1
+Coca-Cola HBC,9.3,0.3,9.5,10.2
+Kerry Group,7.7,0.4,7,9.8
+Nitto Denko,7.3,0.4,7.8,9.6
+Huadian Power International,9.4,0.2,26.4,4.8
+Banco Davivienda,2.7,0.4,23.2,6.4
+Wärtsilä,6.2,0.4,6.5,9.2
+IDB Holding,10.1,-0.2,32.4,0.1
+Actavis,5.9,0.1,14.1,11.7
+Polyus Gold International,2.8,0.9,5.6,9.8
+Autoliv,8.3,0.5,6.6,6.6
+Red Eléctrica,2.3,0.6,12,7.5
+Saputo,7,0.4,3.7,9.7
+Showa Shell Sekiyu,30.3,0,14,2.6
+Community Health Sys,14.5,0.3,16.6,4.1
+City Developments,2.7,0.6,12.8,7.8
+Zoetis,4.3,0.4,6.3,16.7
+Hong Leong Financial,2.3,0.4,53.6,4.8
+Jupiter Telecommunications,4.7,0.5,9.4,8.9
+Crown Holdings,8.5,0.6,7.5,5.8
+PVH,6,0.4,7.8,9.6
+Bank Leumi,4.7,0.2,100.7,5.1
+MediaTek,3.4,0.5,7.2,15.4
+Manila Electric,6.8,0.4,5.3,9.2
+Israel Corp,11.5,-0.1,15.7,5.7
+Fukuoka Financial Group,3,0.3,156.6,4.1
+Oil & Gas Development,1.8,1,3.6,8.7
+Crown Castle International,2.4,0.2,16.1,20.5
+China Merchants Property,3.3,0.5,17.5,6.1
+TDC,4.6,0.6,11.2,6.4
+AGCO,10,0.5,7.7,5.3
+Sekisui Chemical,11.7,0.3,9.8,5.5
+Obayashi,15,0.1,19.2,3.6
+IOI Group,4.9,0.6,7.2,9.6
+Essar Energy,16.7,-0.6,17.4,2.9
+Tele2,6.7,0.5,6.9,7.4
+Aurubis,17.7,0.5,6.3,3.1
+Union Bank of India,4.6,0.3,51.7,2.4
+Jiangsu Yanghe Brewery,2,0.6,2.9,12.4
+Moody's,2.7,0.7,4,11.5
+Pegatron,29.8,0.2,13.5,3.3
+Sun Pharma Industries,1.6,0.5,3.1,16
+Taisei,16,0,17.7,3.2
+ST Engineering,5.2,0.5,6.5,10.4
+Joy Global,5.7,0.8,6.2,6.6
+Beijing Entreprises,4.6,0.4,11.5,8.6
+Amadeus IT Holdings,3.8,0.7,6.8,11.9
+Torchmark,3.6,0.5,18.8,5.6
+China Longyuan Power,2.7,0.4,17.3,7.2
+Infineon Technologies,5,0.5,7.2,9.3
+Amphenol,4.3,0.6,5.2,11.6
+First Republic Bank,1.5,0.4,34.4,5
+GF Securities,1,0.3,12.2,13.9
+GEA Group,7.4,0.4,8.5,6.6
+Shimizu,16.1,0,17,2.6
+Ball,8.7,0.4,7.5,6.9
+Zions Bancorp,2.5,0.3,55.5,4.7
+Umicore,16.6,0.3,4.7,5.9
+Wuhan Iron & Steel,16.1,0.2,15.5,4.5
+Odakyu Electric Railway,6.1,0.2,15.9,8.8
+US Steel,19.3,-0.1,15.2,2.9
+Alfresa Holdings,28.2,0.1,13.1,2.7
+Atos,11.7,0.3,9.3,6.4
+Agile Property Holdings,4.8,0.8,14.7,4
+Yuanta Financial Holding,1.2,0.4,25.3,5.1
+Eurasian Natural Resources,6.3,-0.8,20.2,6.8
+Abengoa,10.3,0.2,25.5,1.5
+DSME,12.5,0.2,15.2,5
+Hyundai Marine & Fire,8.1,0.4,16,2.3
+Host Hotels & Resorts,5.3,0.1,13,12.9
+MMI Holdings,6.2,0.3,36.8,4
+Calpine,5.5,0.2,16.5,9.2
+Henry Schein,8.9,0.3,5.3,7.9
+Darden Restaurants,8.3,0.4,7,6.4
+Acciona,9.3,0.2,24.9,3.6
+Mitsui Chemicals,17.6,0,15.2,2.3
+Paychex,2.3,0.6,7.5,12.4
+Aéroports de Paris,3.5,0.5,12.4,8.4
+Supervalu,34.8,-0.5,11.9,0.9
+Axis Capital Holdings,3.9,0.5,18.9,5
+Universal Health,13.9,0.3,8.2,6.1
+Rockwell Collins,4.7,0.6,5.3,8.7
+Thai Oil,14.6,0.4,5.6,4.7
+Raymond James Financial,4.2,0.3,22.3,6.7
+Soho China,2.5,1.7,12.6,4
+Korean Air,11.3,0.2,21.6,2.6
+Dongbu Insurance,8.2,0.3,15.6,2.5
+UCB,4,0.3,11.7,11.7
+Samsung Engineering,10.8,0.5,5.3,4.7
+Gudang Garam,5.2,0.4,4.3,9.8
+AU Optronics,13,-1.9,18.2,3.8
+Olympus,10.2,-0.6,11.6,6.8
+Nippon Paper Industries,12.6,-0.5,18.5,1.9
+Check Point Software,1.4,0.6,4.5,10.3
+Far Eastern New Century,7.8,0.4,10.9,5.4
+Commercial Bank of Qatar,1.1,0.6,22,4.5
+Inner Mongolia Rare-Earth,1.8,0.6,2.2,11.8
+JGC,6.7,0.5,6.3,6.7
+China Taiping Insurance,8.1,0.1,31.3,3.1
+Shenzhen Overseas,3,0.6,11.7,6.7
+AutoNation,15.7,0.3,6.6,5.4
+Hua Nan Financial,1.6,0.3,65.2,5
+Jabil Circuit,17.6,0.4,8.2,3.9
+Caesars Entertainment,8.6,-1.5,28,2.1
+Silver Wheaton,0.8,0.6,3.2,10.8
+Alfa Laval,4.6,0.5,5.1,9.9
+Scana,4.2,0.4,14.6,6.6
+Catamaran,9.9,0.1,7.4,10.7
+Altera,1.8,0.6,4.7,11.2
+Caltex Australia,24.2,0.1,5,6.2
+A2A,8.1,0.3,15.8,1.9
+Dassault Systèmes,2.7,0.4,4.8,14.2
+TAQA,7.5,0.2,33.3,2.2
+Taishin Financial Holdings,2.4,0.3,86.2,2.8
+SAIC,11.2,0.5,5.9,4.3
+Millicom International,4.9,0.5,7.9,8.2
+Taiwan Mobile,3.4,0.5,3.2,12
+Peabody Energy,8.1,-0.6,15.8,5.9
+Fastenal,3.1,0.4,1.8,15.1
+Bilfinger,11.2,0.4,8.8,4.9
+Vallourec,7,0.3,11.9,6.6
+Hellenic Telecom,6.2,0.6,10.7,3.7
+Aurizon Holdings,3.6,0.5,10.3,9
+Rexam,7,0.3,9.9,6.3
+ADT,3.2,0.4,9.5,11.5
+Bajaj Auto,3.7,0.6,2.2,9.9
+Roper Industries,3,0.5,7.1,12.3
+Shanghai Construction,14.5,0.3,13.3,2.7
+China Merchants Holdings,1.4,0.5,10,8.6
+Rock-Tenn,9.2,0.3,10.5,6.5
+KLA-Tencor,3.1,0.7,5.1,8.7
+Suzuken,22.5,0.1,11.8,3.1
+Cerner,2.7,0.4,3.7,16
+First Pacific,6,0.3,13.9,5.3
+Empire,17.4,0.4,15,16.9
+Semen Indonesia,2.1,0.5,2.8,11.2
+Oriental Land,4.4,0.4,7.5,13.3
+Rural Electrification,2.1,0.6,21.7,4.1
+Exxaro Resources,1.5,1.2,4.9,6.4
+BYD,7.4,0,11,8.3
+Impala Platinum Holdings,3.4,0.5,8.9,9.3
+Advanced Semiconductor,6.6,0.4,8.3,6.3
+Alliance Data Systems,3.6,0.4,12,7.9
+Gold Fields,3.4,0.7,11.2,5.9
+Angang Steel,12.3,-0.7,16.2,4.1
+Denbury Resources,2.5,0.5,11.1,7
+First Financial Holdings,1.5,0.3,68.7,5.1
+Pioneer Natural Resources,3.2,0.2,13.1,17.3
+NYSE Euronext,3.7,0.3,12.6,9.2
+Celesio,28.6,-0.2,10.5,3.2
+KT&G,3.7,0.7,6.3,8.4
+Shanxi Taigang Stainless,15.3,0.3,10.5,3.1
+Banco BPI,2.2,0.3,58.8,2
+Hanwha Corp,10.2,0.3,14.9,2.1
+Yang Quan Coal Industry,8,0.4,4.4,5.4
+Hengan International Group,2.4,0.5,3.8,11.9
+Petro Rabigh,16.5,0.1,12.7,4
+Olam International,13.5,0.3,10.9,3.1
+Petronas Gas,1.2,0.5,4.4,11.8
+Direct Line Insurance,6.1,0.3,18.8,4.7
+Meico Crown Entertainment,4.1,0.4,7.9,11.5
+Bank Danamon Indonesia,2.5,0.4,16.1,5.9
+Life Technologies,3.8,0.4,8.6,10.8
+Shanghai Pharmaceuticals,10.8,0.3,8.1,5.6
+Arca Continental,4.4,0.4,4.9,12
+Avon Products,10.7,0,7.4,8.7
+Wyndham Worldwide,4.5,0.4,9.5,8.6
+SNC-Lavalin Group,7.9,0.3,9.7,6.4
+GPT Group,0.7,0.6,9.7,6
+Tasnee,4.8,0.5,12.2,5.3
+TPK Holding,5.9,0.5,3.4,6.7
+Hysan Development,0.3,1.3,8.8,5.2
+Capita,5.4,0.4,6.3,8.7
+Grupo Elektra,5.3,-1.5,12.8,9.5
+Allahabad Bank,3.3,0.4,36,1.3
+Ashland,8.1,0.1,12.4,6.4
+WorleyParsons,7.6,0.4,4.4,6.6
+Mexichem,4.9,0.4,7.6,10.8
+American Water Works,2.9,0.4,14.7,7.1
+Samsung Electro-Mechanic,7,0.4,6.5,6.4
+Yamaha Motor,13.9,0.1,11.1,4.9
+Petsmart,6.8,0.4,2.5,6.7
+Brown-Forman,2.4,0.4,3.5,14.7
+Electric Power Development,7.9,0.2,23.9,3.8
+Nomos Bank,2.7,0.4,29.4,2.6
+NHN,2.1,0.5,2.8,10.4
+SinoPac Financial,1.3,0.3,46.7,3.5
+Daelim Industrial,9.6,0.4,10.2,2.8
+Fortis (Canada),3.8,0.4,15,6.9
+Hoya,4.4,0.5,6.7,8.2
+Tauron Group,7.6,0.5,10.1,2.5
+Avago Technologies,2.4,0.6,2.9,8.8
+Protective Life,3.6,0.3,57.4,2.7
+China National Chemical,6.9,0.4,7.2,6.7
+Huntsman,11.2,0.3,8.9,4.6
+Crown Ltd,2.8,0.5,5.9,9.4
+Mondi,7.7,0.3,8.7,6.4
+Bunzl,8.7,0.3,4.8,6.5
+Concho Resources,1.8,0.4,8.6,10.1
+SK Networks,24.8,0,10,1.7
+Newell Rubbermaid,5.9,0.4,6.2,7.3
+Reliance Steel,8.4,0.4,5.9,5.3
+Kingdom Holding,0.8,0.2,11.2,19
+Hutchinson Port Holdings,1.6,0.3,17.4,7.3
+Petronas Dagangan,9.6,0.3,3.2,7.4
+Jindal Steel & Power,3.6,0.8,8.8,6.2
+G4S,11.9,0.1,9.1,6.4
+Perrigo,3.3,0.4,4.3,10.9
+Unicharm,5.2,0.3,5.2,10.6
+Nvidia,4.3,0.6,6.4,7.8
+Xilinx,2.2,0.5,4.6,10.1
+Chang Hwa Bank,1.2,0.3,52.3,4.3
+Accor,7.3,-0.8,10,8.4
+Alpha Bank,4.6,-1.4,76.9,0.5
+New Hope Liuhe,11.4,0.4,3.5,3.6
+Taiwan Cooperative Financial,1.9,0.2,91,4.5
+Samsung Card,3.3,0.7,15.3,4.1
+X5 Retail Group,15.8,-0.1,9.6,5
+Ametek,3.3,0.5,5.2,10.4
+CBRE Group,6.5,0.3,7.8,8.2
+Smurfit Kappa Group,9.7,0.3,10.9,3.7
+BBMG,5.1,0.5,13.3,4.4
+Bank Audi,2,0.4,31.3,2.4
+Flowserve,4.8,0.4,4.8,8.1
+Orkla,5.4,0.3,10.4,8.4
+Embraer,6.2,0.3,9.5,6.3
+EasyJet,6.2,0.4,6.9,6.4
+Huatai Securities,1.3,0.3,13.6,9.5
+BR Malls,0.6,0.9,8.7,5.8
+Hexagon,3.2,0.5,7,9.8
+Lundbergs,3.3,0.5,13.9,5.2
+Compal Electronics,23.1,0.2,9.8,3
+Neste Oil,23.7,0.2,9.7,3.8
+Travis Perkins,7.9,0.4,7.1,5
+Masraf Al Rayan,0.7,0.4,16.9,5.1
+Xiamen C&D,12.8,0.4,8.2,2.3
+China International Marine,8.6,0.3,10.3,4.9
+Public Power,7.7,0,21.2,2
+Aker Solutions,8.1,0.4,7.1,5.1
+Crescent Point Energy,2,0.2,12.2,14.4
+BS Financial Group,2.1,0.3,38.6,2.8
+China Merchants Securities,1.1,0.3,10.9,9.7
+Sino Land,1.1,0.6,14.7,3.9
+HCL Technologies,3.8,0.4,3.2,10.2
+Citrix Systems,2.6,0.4,4.8,8.1
+Financière de l'Odet,11,0.3,11.1,3.2
+PostNL,5.7,0.9,6.1,1
+InterContinental Hotels,1.9,0.6,3.1,8.1
+Avis Budget Group,7.4,0.3,15.2,3
+Natura Cosmeticos,3.1,0.4,2.5,10.5
+CGI Group,6.3,0,10.8,8
+Hunan Valin Steel,11.7,0,13.6,1
+Sigma-Aldrich,2.6,0.5,3.8,9.5
+Saudi Arabian Mining,1.5,0.3,14.7,8.1
+NSK,8.9,0.3,10.2,4.2
+CR Bard,3,0.5,4.2,8.3
+Experditors International,6,0.3,3,7.9
+Union National Bank,1.2,0.4,23.7,2.7
+Kinross Gold,4.3,-2.5,14.9,9.1
+Weir Group,4.1,0.5,5.3,7.9
+China Communications Services,9.8,0.4,7.2,4.7
+ICAP,2.7,0.2,129.9,3.2
+Wistron,22.2,0.2,9.4,2.5
+Banca Popolare dell'Emilia,4.1,0,81.3,2.6
+Hokuhoku Financial Group,2.5,0.2,128.7,2.6
+Beam,2.5,0.4,8.6,10.1
+Hokkaido Electric Power,7.7,-0.9,19.6,1.7
+Lagardère,9.5,0.1,12.4,5
+Kansas City Southern,2.2,0.4,6.4,11.9
+Pall,2.7,0.6,3.5,7.6
+Chinese Estates,0.4,1.3,9.6,2.9
+Pinnacle West,3.3,0.4,13.4,6.3
+BOK Financial,1.5,0.4,28.1,4.2
+Yamaguchi Financial,1.8,0.2,110.2,2.5
+Dongfang Electric,6,0.3,12.6,4.7
+Coloplast,1.9,0.4,1.8,11.4
+World Fuel Services,38.9,0.2,4.1,2.9
+Burberry Group,3,0.4,2.4,9.7
+Salzgitter,13.4,-0.1,11.7,2.5
+Scripps Network Interactive,2.3,0.4,4.1,9.6
+Banrisul,3.6,0.4,22.3,3.6
+Arkema,8.4,0.3,7.2,6.4
+Shangri-La Asia,2.1,0.4,11.9,7.2
+Ingredion,6.5,0.4,5.6,5.3
+UNY Group Holdings,13.3,0.1,11.7,1.7
+Indian Bank,2.6,0.3,27.5,1.4
+Joyo Bank,1.9,0.2,97.1,4.2
+Enagas,1.6,0.5,10.6,5.8
+Teradata,2.7,0.4,3.1,9.6
+Nishi-Nippon City Bank,1.9,0.2,92.7,2.4
+Marfrig Group,12.3,-0.1,12,2.5
+Hyosung,11.2,0.1,12.9,1.6
+77 Bank,1.4,0.1,92.2,2
+Wolters Kluwer,4.8,0.4,8.5,6.6
+Plains Exploration,2.6,0.3,17.3,6.1
+Empresas CMPC,4.8,0.2,14,8
+Goodman Group,0.7,0.4,8.4,8.9
+Inner Mongolia Yili,6,0.3,3.2,8.9
+Grupo Argos,3.8,0.2,15.2,9.5
+CVR Energy,8.6,0.4,3.6,4.8
+Magnitogorsk Iron & Steel,8.5,-0.1,16.2,3.3
+TDK,9.8,0,12.6,4.6
+Bank of Kyoto,1.4,0.2,89.4,3.5
+Helmerich & Payne,3.3,0.6,5.9,7
+McCormick & Co,4,0.4,4.2,9.4
+Buenaventura,1.5,0.7,4.5,6.3
+Smiths Group,4.7,0.4,5.3,7.8
+InTouch,0.3,0.5,1.5,8.6
+Hatteras Financial,0.5,0.3,26.4,2.7
+Gecina,0.9,0.3,14.8,7.1
+Sumitomo Rubber,8.2,0.4,8.5,4.3
+Kawasaki Kisen Kaisha,11.7,-0.5,12.3,2.2
+Atco,4.4,0.4,14.4,5
+Maanshan Iron & Steel,11.8,-0.6,12.2,2.3
+Quinenco,4.1,0.2,46.3,5
+Mizrahi Tefahot Bank,2.1,0.3,43.4,2.4
+TCL Corp,11,0.1,12.8,3.4
+Shandong Gold-Mining,6.3,0.3,2,7.6
+Advance Auto Parts,6.2,0.4,4.6,5.9
+E-L Financial,3,0.5,16.7,2.1
+Western Refining,9.5,0.4,2.5,3.1
+Banco de Valencia,1.2,-4.7,28.3,6
+Hiroshima Bank,1.5,0.2,80.5,2.9
+NHPC,1.4,0.6,11.8,4.6
+Hachijuni Bank,2,0.2,80.2,2.9
+Doosan Infracore,7.2,0.4,10.5,2.3
+Grifols,3.5,0.3,7.4,12.1
+Gunma Bank,1.5,0.2,78.5,2.7
+Jtekt,12.7,0.2,11.4,3.3
+Soriana,8,0.3,5.7,6.8
+Usiminas,6.2,-0.3,15.3,5.3
+Chugoku Bank,1.4,0.2,76.7,3.2
+Bankinter,3.7,0.2,76.5,3.3
+Waters,1.8,0.5,3.2,8.1
+Netease,1.3,0.6,3.1,6.8
+Jizhong Energy Resources,6,0.5,6,4.9
+Novozymes,2,0.4,2.6,11
+URS,11,0.3,8.8,3.5
+Banca Popolare di Milano,2,-0.6,69.3,2
+ARM Holdings,0.9,0.3,2.3,19.6
+Iyo Bank,1.4,0.2,68.9,2.8
+Oil India,1.9,0.7,4.5,6.1
+Bendigo & Adelaide Bank,3.8,0.2,58.5,4.4
+Halyk Bank,1.6,0.5,16,2
+Pacific Rubiales Energy,3.9,0.5,7.1,7.1
+Michael Kors Holdings,2,0.3,1.2,11.5
+Juroku Bank,1.4,0.1,66.6,1.5
+Aboitiz Equity Ventures,1.6,0.5,4.6,7.8
+Qatar Islamic Bank,0.9,0.3,20.1,4.6
+Rite Aid,26.1,-0.2,7.2,1.7
+Serco Group,7.8,0.4,5.3,4.7
+Minmetals Development,25.7,0.1,7.6,2.6
+Boliden,6.2,0.5,6.1,4.6
+Banco Carige,2,-0.1,65.1,1.8
+Constellation Brands,2.7,0.4,8.3,8.4
+CYS Investments,0.3,0.4,21.1,2.1
+Tate & Lyle,4.9,0.5,4.6,5.8
+Salesforce.com,3,-0.3,5.5,25.8
+Corporation Bank,2.9,0.3,32.1,1.1
+Tech Data,25.4,0.2,6.8,1.9
+Imperial Holdings,9.9,0.4,5.5,4.2
+Tiffany & Co,3.8,0.4,4.6,8.8
+Piraeus Bank,3.9,-8.6,62.5,0.3
+Korea Zinc,4.9,0.5,4.6,5.7
+Blom Bank,1.6,0.3,25,1.7
+Manpower,20.7,0.2,7,4.5
+Aggreko,2.6,0.4,3.4,8
+JB Hunt Transport,5.1,0.3,2.5,8.7
+Metropolitan Bank & Trust,1.5,0.3,21.7,6
+Airgas,4.9,0.3,5.5,7.9
+Aareal Bank,1.5,0.1,60.3,1.4
+Senshu Ikeda Holdings,1.4,0,60.3,1.3
+Timken,5,0.5,4.2,5.5
+FirstGroup,10.7,0.3,8.4,1.5
+Japan Securities,0.2,0,59.9,0.7
+Pepco Holdings,5.1,0.3,15.8,4.8
+Hero MotoCorp,4.6,0.5,1.9,6.2
+Nanto Bank,1,0,58.2,1.3
+Maxim Integrated Products,2.4,0.4,3.7,9.6
+Bank Muscat,1.1,0.4,20.5,3.3
+Alexion Pharmaceuticals,1.1,0.3,2.6,18.2
+Gemdale,3.8,0.5,14.3,4.3
+Balfour Beauty,15.4,0.1,9.2,2.9
+Daishi Bank,0.9,0.1,56.8,1.4
+STX Offshore,10,0.1,12.1,0.5
+Thomas Cook Group,15.3,-0.9,9.2,1.6
+Macerich,0.9,0.3,9.3,8.6
+Varian Medical Systems,2.9,0.4,2.9,8
+Mashreq Bank,1.5,0.4,20.8,2.2
+Hellenic Petroleum,13.8,0.1,62.5,0.3
+Shiga Bank,1.1,0.1,54.9,1.6
+Hyakugo Bank,1,0.1,54.8,1.2
+Permanent TSB Group,1.7,-1.3,53.9,1.7
+Israel Discount Bank,2.9,0.2,53.8,1.9
+Verisk Analytics,1.5,0.3,2.4,11
+Dubai Islamic Bank,1.3,0.3,26,2.2
+Lawson,5.9,0.3,6.4,7.1
+FMC,3.7,0.4,4.4,8.3
+Ogaki Kyoritsu Bank,1,0.1,52.7,1.3
+Linear Technology,1.3,0.4,1.9,8.8
+Abu Dhabi Islamic Bank,1,0.3,23.3,2.4
+Windstream,6.2,0.2,14,5.2
+Orient,2.6,0,52,1.9
+ITV,3.6,0.4,4.4,7.8
+Randgold Resources,1.3,0.4,3.1,7.7
+Toho Bank,0.7,0.1,51.4,0.8
+Ezdan Holding Group,0.2,0.1,10.7,11.7
+Central Bank of India,4,0.1,45.2,1
+OPAP,5.2,0.7,2.3,2.8
+Vopak,1.7,0.4,6.6,7.9
+San-In Godo Bank,1.1,0.1,50.1,1.4
+Aspen Pharmacare Holdings,1.9,0.4,3.8,9.7
+Higo Bank,0.9,0.1,49.9,1.4
+Shanghai Industrial,2.5,0.4,14.9,3.3
+RMB Holdings,0.6,0.6,3.3,6.1
+JC Penney,13,-1,9.8,3.4
+PBF Energy,20.1,0,4.3,3.8
+Hyakujushi Bank,0.9,0.1,48.7,1.2
+Grasim Industries,4.9,0.5,7.2,5
+Bolsas & Mercados,0.4,0.2,48.2,2.2
+Nabors Industries,6.8,0.2,12.7,5
+E-Trade Financial,2.2,-0.1,47.4,3.1
+Eutelsat Communications,1.5,0.4,6.3,8
+LIG Insurance,8,0.2,13.9,1.1
+Hanwa,18.9,0.1,7.1,0.8
+Carphone Warehouse,0,1.2,1.2,1.4
+DIA,13.4,0.2,4.4,4.9
+Syndicate Bank,3.2,0.3,35.8,1.3
+Kiyo Holdings,1,0.1,46.6,1.2
+Juniper Networks,4.4,0.2,9.8,10.4
+Musashino Bank,0.9,0.1,46.1,1.3
+Masco,7.7,-0.1,6.9,7.1
+China Gezhouba,8.3,0.2,12.3,2.9
+Keiyo Bank,0.9,0.1,45.8,1.6
+LinkedIn,1,0,1.4,19.1
+Jyske Bank,1.7,0.1,45.6,2.5
+Nürnberger,4.7,0.1,28.9,0.9
+Foot Locker,6.2,0.4,3.4,4.9
+CNO Financial Group,4.3,0.2,34.1,2.6
+Tim Hortons,3.1,0.4,2.3,7.9
+Doosan Heavy Industries,8.6,0,12.6,3.5
+Cattolica Assicurazioni,5.2,0.1,23.2,1
+Tronox,1.8,1.1,5.5,2.4
+Great Wall Technology,15.2,0,8.5,0.2
+Kagoshima Bank,0.9,0.1,43.3,1.4
+Meiji Holdings,13.4,0.1,9.1,3.3
+Terumo,4.7,0.3,8.3,8.3
+Indian Overseas Bank,3.9,0.2,43.1,1
+SL Green Realty,1.4,0.2,14.4,7.8
+Bank of Queensland,2.8,0,43,3.1
+Renesas Electronics,10.7,-0.8,10.4,1.1
+Invesco Mortgage Capital,0.6,0.3,18.9,2.9
+Banca Popolare di Sondrio,2,0,42.7,1.8
+OfficeMax,6.9,0.4,3.8,1
+Suruga Bank,1.2,0.2,42.2,3.8
+Taiwan Business Bank,0.9,0.1,41.8,1.6
+IKB Deutsche,2.6,-0.7,41.8,0.4
+OGE Energy,3.7,0.4,9.9,6.7
+CorpBanca,2,0.2,28.3,4.7
+PhosAgro,3.1,0.6,3.4,5.5
+Green Mountain Coffee,4,0.4,3.5,8.1
+China Agri-Industries,11.8,0.2,9.6,2.9
+Vietin Bank,2.6,0.3,24.2,2.4
+People's United Financial,1.3,0.2,30.3,40.6
+Popular,2.2,0.2,36.5,2.9
+Gannett,5.4,0.4,6.4,5
+AOL,2.2,1,2.8,2.6
+Hokkoku Bank,0.8,0.1,41.3,1.3
+Quanta Services,5.9,0.3,5.1,6.3
+CC Media Holdings,6.2,-0.4,16.3,0.2
+Luzhou Laojiao,1.3,0.5,1.9,6.6
+Kimberly-Clark de Mexico,2.3,0.3,2.2,9.6
+DLF,1.9,0.2,12.4,8.6
+Credito Emiliano,1.9,0.2,40.5,1.7
+Konica Minolta,9.3,0.2,10.5,4.2
+Whitbread,2.8,0.4,4.7,7
+AMEC,6.8,0.4,4,4.8
+Taiheiyo Cement,8.8,0.1,11.7,2.9
+Hugo Boss,3,0.4,2.1,7.7
+Credito Valtellinese,1.4,-0.4,39.5,0.6
+Credit Saison,4.3,0.1,25.3,4.6
+Ayala,2.5,0.3,11.9,8.2
+CJ Cheiljedang,8.8,0.2,11.6,4
+Emirates Integrated Telecom,2.7,0.5,3.8,5.8
+Nagoya Railroad,7.3,0.1,13.6,2.8
+Anadolu Efes,3.6,0.3,6.5,9
+ProSiebenSat1 Media,3,0.4,7.1,7.9
+Bank of Iwate,0.5,0.1,38.6,0.8
+Bank of Nagoya,0.8,0,38.5,0.9
+Saudi Hollandi Bank,0.7,0.3,18.3,3
+Saras,15.7,-0.1,5.2,1.1
+E.Sun Financial,0.9,0.1,38.2,2.9
+Church & Dwight,2.9,0.3,4.1,8.5
+Harbinger Group,4.5,0.1,26.9,1.2
+Shiseido,8.2,0.2,8.5,5.7
+J Front Retailing,11.6,0.2,9.4,3.8
+Hanjin Shipping,10,-0.6,10.3,1.3
+Air Canada,12.2,0.1,9.1,0.7
+Zodiac Aerospace,4.3,0.4,5.1,6.4
+Eurazeo,5.7,-0.3,17.7,3.6
+First Niagara Financial,1.5,0.2,36.8,3
+Takashimaya,10.6,0.1,9.8,3
+Level 3 Communications,6.4,-0.4,13.3,4.6
+Hokuriku Electric Power,6,-0.1,16.4,2.4
+LG Uplus,10.2,-0.1,9.9,3.5
+Lojas Americanas,5.5,0.2,5.3,8.9
+Vesuvius,2.5,0.9,3,1.7
+Furukawa Electric,11.1,-0.1,9.5,1.6
+Sage Group,2.2,0.5,4,6.1
+Mohawk Industries,5.8,0.3,6.3,7.9
+Fuyo General Lease,5.1,0.2,20.3,1.2
+Toyo Seikan Kaisha,8.5,0,11.5,2.9
+UCO Bank,3.1,0.2,35.4,0.7
+Incitec Pivot,3.6,0.5,7.3,5.7
+Telecom of New Zealand,3.5,0.9,2.9,3.4
+China Aviation Oil,14.8,0.1,1.6,0.6
+Acer,14.8,-0.1,7.8,2.5
+DRB-Hicom,2.2,0.4,12.9,1.5
+American Equity Investment,1.6,0.1,35.1,0.9
+Yamanashi Chuo Bank,0.6,0.1,35.1,0.8
+Grupa Lotos,10.2,0.3,6.5,1.8
+Oriental Bank of Commerce,3.4,0.2,35,1.5
+Calloway Real Estate,0.5,0.9,6.5,3.8
+DGB Financial Group,1.7,0.2,32.2,2
+Getinge,3.7,0.4,6.5,7.3
+Kimco Realty,0.9,0.3,9.7,9
+Chicago Bridge & Iron,5.6,0.3,4.3,6.1
+CFS Retail Property,0.8,0.4,8.6,6
+Hainan Airlines,4.4,0.3,14.9,4.5
+China Hongqiao Group,3.9,0.9,7.1,3
+Total Access Communication,2.9,0.4,3.3,7.7
+Imerys,5.1,0.4,6.3,5.2
+Navistar International,12.5,-3,8.5,2.9
+Laurentian Bank,1.5,0.1,34.3,1.2
+H&R Real Estate,0.8,0.5,10.2,4.5
+LS Corp,10.6,0.2,9.5,2.6
+MISC,3.1,0.2,12.2,7.4
+DCC,14.3,0.1,5,2.8
+Awa Bank,0.8,0,34.1,1.4
+Ternium,8.6,0.1,10.9,4
+Inchcape,9.6,0.3,5.5,3.6
+Zhongjin Gold,5.3,0.3,3,6.9
+Oita Bank,0.7,0.1,33.7,0.6
+Alpha Natural Resources,7,-2.4,13.1,1.9
+Toll Brothers,2,0.5,6.1,5.8
+Aichi Bank,0.6,0,33.5,0.6
+East West Bancorp,1.1,0.3,22.5,3.5
+Thanachart Capital,2.4,0.2,33.5,2
+Far EasTone Telecom,3,0.4,3.4,7.6
+Willis Group Holdings,3.5,-0.4,15.1,6.6
+Calsonic Kansei,9.4,0.3,4.1,1.2
+Interactive Brokers Group,1.2,0,33.2,0.7
+Jaccs,1.3,0.1,33.1,0.9
+Kuala Lumpur Kepong,3.3,0.4,3.7,6.9
+Almarai,2.6,0.4,5.2,7.1
+Energizer Holdings,4.6,0.4,6.7,5.8
+Swedish Match,1.8,0.4,2.2,6.3
+Mirvac Group,1.6,0.4,8.3,6.1
+Shanxi Lu'an Environmental,3.1,0.4,6.4,6.7
+Doha Bank,0.8,0.4,15.2,2.8
+Transurban Group,1.2,0.1,10.1,9.5
+Qinghai Salt Lake,15.2,0.4,4.7,6.8
+Inventec,13.9,0.1,6.9,1.3
+Cabot Oil & Gas,1.2,0.1,4.6,14.1
+Monster Beverage,2.1,0.3,1,8
+Banque Centrale Populaire,1.9,0.2,32,3.9
+Gemalto,2.9,0.3,3.6,8.1
+Iliad,4.2,0.2,6.3,11
+Tomony Holdings,0.7,0.1,31.7,0.7
+BayWa,13.5,0.1,5.9,1.7
+Teijin,10.3,0.1,9.2,2.3
+Shikoku Bank,0.5,0,31.6,0.7
+Andhra Bank,2.5,0.3,24.7,1
+Akita Bank,0.6,0,31.6,0.5
+DVB Bank,1.5,0.2,31.4,1.5
+Prysmian,10.1,0.2,7.9,4.9
+GS Engineering,8.3,0.1,10.8,2.3
+Nokian Tyres,2.1,0.4,2.7,6.1
+Tokyo Tomin Bank,0.6,0,31.4,0.4
+Showa Denko,8.5,0.1,10.5,2.2
+Tenet Healthcare,9.1,0.1,9,4.6
+Sealed Air,7.6,-1.1,10,4.7
+Toho Holdings,13.4,0.1,6.5,1.5
+CapitaMall Trust,0.5,0.4,8.1,5.8
+Southwestern Energy,2.7,-0.7,6.7,13.5
+H&R Block,2.7,0.4,3.9,7.5
+Dixons Retail,13.3,-0.3,4.7,1.9
+Edwards Lifescience,1.9,0.3,2.2,9.4
+Seiko Epson,10.6,0.1,9,1.9
+Hillshire Brands,4.1,0.7,2.5,4.2
+Tochigi Bank,0.6,0,30.4,0.4
+Smithfield Foods,13.1,0.2,7.6,3.7
+Penske Automotive,13.2,0.2,5.4,3
+Yokohama Rubber,6.5,0.4,6.2,3.3
+Dragon Oil,1.2,0.6,3.8,4.8
+Nippon Steel Trading,13.1,0.1,4,0.4
+Eighteenth Bank,0.6,0,29.9,0.5
+Range Resources,1.5,0,6.7,13.4
+Inner Mongolia Baotou Steel,6.8,0.1,7.9,6.4
+Aomori Bank,0.5,0,29.8,0.7
+Porto Seguro,6.1,0.3,8.8,4.4
+Chipotle Mexican Grill,2.7,0.3,1.7,10
+NCC Group,8.8,0.3,5.9,2.9
+Symetra Financial,2.1,0.2,29.5,1.7
+CareFusion,3.6,0.3,8.4,7.6
+WEG,3,0.3,4.3,8.1
+TransDigm Group,1.8,0.3,5.6,7.9
+Shanghai Material Trading,12.8,0,1.5,0.3
+Commerce Bancshares,1.1,0.3,22.2,3.6
+Metcash,12.8,0.1,4.1,3.9
+Kesko,12.8,0.2,5.8,3.2
+Motor Oil,12.8,0.1,3.4,1.2
+Fraport,3.1,0.3,12.7,5.2
+Frontier Communications,5,0.1,17.7,4.1
+City National,1.2,0.2,28.6,3.2
+Italmobiliare,6.1,-0.3,13.8,0.7
+Fidea Holdings,0.6,0.1,28.3,0.4
+Dick's Sporting Goods,5.8,0.3,2.9,5.8
+FIBI Holdings,1.4,0.2,28.2,0.5
+Hokuetsu Bank,0.6,0.1,28.1,0.6
+K's Holdings,8.8,0.3,4,1.5
+Alliant Energy,3.1,0.3,10.8,5.4
+Sacyr Vallerhermoso,4.6,-1.3,19.7,0.9
+Chiba Kogyo Bank,0.5,0.1,27.8,0.5
+Ehime Bank,0.5,0,27.7,0.4
+Lulemon Athletica,1.4,0.3,1.1,10
+Nippon Meat Packers,12.3,0.1,7,3.3
+Westlake Chemical,3.6,0.4,3.4,6.5
+Severn Trent,2.8,0.3,12.3,5.9
+Hyundai Wia,6.2,0.4,4.3,4
+Aberdeen Asset Management,1.4,0.3,6.5,7.5
+Tongling Nonferrous Metals,12.2,0.1,5.9,3.9
+SpareBank 1 SR-Bank,1.2,0.2,25.4,2.4
+Catlin Group,3.8,0.3,14,2.8
+Hikvision,0.8,0.2,1.3,12.3
+Assore,1.6,0.5,2.1,5.2
+Whiting Petroleum,2.2,0.4,7.3,6.1
+Expedia,4,0.3,7.1,9
+Finning International,6.7,0.3,5.1,4.3
+MeadWestvaco,5.5,0.2,8.9,6.6
+Kanematsu,12.2,0.1,4.7,0.6
+Fukui Bank,0.5,0.1,27.1,0.5
+Ambac Financial Group,0.7,-0.3,27,0
+Sydbank,1.1,0.1,27,1.6
+TPV Technology,12,0.1,6.9,0.8
+James Hardie Industries,1.2,0.6,1.9,4.7
+Telekom Malaysia,3.2,0.4,7.3,6.1
+Vestas Wind Systems,9.5,-1.3,9,1.6
+Erie Indemnity,5.4,0.2,15.4,4
+Yamagata Bank,0.5,0,26.6,0.8
+Nelnet,1,0.2,26.6,1.6
+Commercial International Bank,1.5,0.3,14.8,2.8
+Tsukuba Bank,0.5,0,26.5,0.4
+Hakuhodo DY Holdings,11.8,0.1,6.2,3
+EQT,1.6,0.2,8.8,10
+Dillard's,6.8,0.3,4,3.8
+Yachiyo Bank,0.5,0.1,26.5,0.5
+BIM Birlelik Magazalar,5.5,0.2,1.2,7.5
+Boardwalk Real Estate,0.4,0.7,5.7,3.2
+Aeroflot-Russian Airlines,4.9,0.5,5.2,1.9
+Omron,7.5,0.2,6.1,5.5
+Fuji Electric,8.5,0.1,9.6,2.1
+Toyota Boshoku,11.6,0,7.1,2.6
+Ford Otosan,5.5,0.4,2.6,4.5
+Miyazaki Bank,0.5,0.1,25.7,0.5
+Cliffs Natural Resources,5.9,-0.9,13.6,3.5
+Kuwait Projects,1.5,0.1,25.5,2
+First Horizon Natural,1.5,0,25.5,2.7
+Reliance Infrastructure,4.7,0.3,12.1,2
+Cimarex Energy,1.6,0.4,6.3,6.8
+Wing Hang Bank,0.9,0.2,25.5,3.2
+Poly Property Group,2.7,0.3,13.9,2.2
+IMI,3.5,0.4,2.8,6.6
+Klabin,2,0.4,6.9,6.5
+Alexander's,0.2,0.7,1.5,1.7
+Two Harbors Investment,0.5,0.3,16.8,4.1
+LG International,11.4,0.2,4.7,1.4
+Health Net,11.3,0.1,3.9,2.3
+Bank of Saga,0.5,0,25,0.4
+Tractor Supply,4.7,0.3,1.7,7.1
+San-Ai Oil,0.5,0.1,25.7,0.5
+UOL Group,0.9,0.7,7.8,4.2
+Interconexion Electrica,2.4,0.2,14.6,5.8
+Old Republic International,5,-0.1,16.2,3.3
+Lulemon Athletica,1.4,,1.1,10
+Nippon Meat Packers,12.3,0.1,,3.3
+Westlake Chemical,,0.4,,6.5
+Severn Trent,,0.3,12.3,
+Hyundai Wia,,0.4,4.3,4
+Aberdeen Asset Management,,0.3,6.5,
+Tongling Nonferrous Metals,,0.1,5.9,3.9
+SpareBank 1 SR-Bank,,,25.4,2.4
+Catlin Group,,0.3,14,2.8
+Hikvision,,0.2,1.3,12.3
+Assore,,0.5,2.1,5.2
+Whiting Petroleum,,0.4,7.3,6.1
+Expedia,,0.3,7.1,9
+Finning International,,0.3,5.1,4.3
+MeadWestvaco,,0.2,8.9,6.6
+Kanematsu,,0.1,4.7,0.6
+Fukui Bank,0.5,,27.1,0.5
+Ambac Financial Group,0.7,,27,0
+Sydbank,1.1,,27,1.6
+TPV Technology,12,,6.9,0.8
+James Hardie Industries,1.2,,1.9,4.7
+Telekom Malaysia,3.2,,7.3,6.1
+Vestas Wind Systems,9.5,,9,1.6
+Erie Indemnity,5.4,,15.4,4
+Yamagata Bank,0.5,,26.6,0.8
+Nelnet,1,,26.6,1.6
+Commercial International Bank,1.5,,14.8,2.8
+Tsukuba Bank,0.5,,26.5,0.4
+Hakuhodo DY Holdings,11.8,,6.2,3
+EQT,1.6,,8.8,10
+Dillard's,6.8,0.3,4,3.8
+Yachiyo Bank,0.5,0.1,,0.5
+BIM Birlelik Magazalar,5.5,0.2,,7.5
+Boardwalk Real Estate,0.4,0.7,,3.2
+Aeroflot-Russian Airlines,4.9,0.5,,1.9
+Omron,7.5,0.2,,5.5
+Fuji Electric,8.5,0.1,9.6,2.1
+Toyota Boshoku,11.6,0,7.1,2.6
+Ford Otosan,5.5,0.4,2.6,4.5
+Miyazaki Bank,0.5,0.1,25.7,0.5
+Cliffs Natural Resources,5.9,-0.9,13.6,3.5
+Kuwait Projects,1.5,0.1,,2
+First Horizon Natural,1.5,0,,2.7
+Reliance Infrastructure,4.7,0.3,,2
+Cimarex Energy,1.6,0.4,,6.8
+Wing Hang Bank,0.9,0.2,,3.2
+Poly Property Group,2.7,0.3,13.9,
+IMI,3.5,0.4,2.8,
+Klabin,2,0.4,6.9,
+Alexander's,0.2,0.7,1.5,
+Two Harbors Investment,0.5,0.3,16.8,
+LG International,11.4,0.2,4.7,
+Health Net,11.3,0.1,3.9,
+Bank of Saga,0.5,0,25,
+Tractor Supply,4.7,0.3,1.7,
+San-Ai Oil,0.5,0.1,25.7,
+UOL Group,0.9,0.7,7.8,
+Interconexion Electrica,2.4,0.2,14.6,
+Old Republic International,5,-0.1,16.2,
+BIM Birlelik Magazalar,5.5,0.2,1.2,
+Boardwalk Real Estate,0.4,0.7,5.7,
+Aeroflot-Russian Airlines,4.9,0.5,5.2,
+Omron,7.5,0.2,6.1,
+Fuji Electric,8.5,0.1,9.6,
+Toyota Boshoku,11.6,0,7.1,
+Ford Otosan,5.5,0.4,2.6,
+Miyazaki Bank,0.5,0.1,25.7,
+Cliffs Natural Resources,5.9,-0.9,13.6,
+Kuwait Projects,1.5,0.1,25.5,
+First Horizon Natural,1.5,0,25.5,
+Reliance Infrastructure,4.7,0.3,12.1,
+Cimarex Energy,1.6,0.4,6.3,
+Wing Hang Bank,0.9,0.2,25.5,
+Poly Property Group,2.7,0.3,13.9,
+IMI,3.5,0.4,2.8,
+Klabin,2,0.4,6.9,
+Alexander's,0.2,0.7,1.5,
+Two Harbors Investment,0.5,0.3,16.8,
+LG International,11.4,0.2,4.7,
+Health Net,11.3,0.1,3.9,
+Bank of Saga,0.5,0,25,
+Tractor Supply,4.7,0.3,1.7,
+San-Ai Oil,0.5,0.1,25.7,
+UOL Group,0.9,0.7,7.8,
+Interconexion Electrica,2.4,0.2,14.6,
+Old Republic International,5,-0.1,16.2,
